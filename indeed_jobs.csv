@@ -1,0 +1,1195 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"in-7444496f5671c283","indeed","https://www.indeed.com/viewjob?jk=7444496f5671c283","https://www.3ds.com/careers/jobs/software-engineer-summer-intern-541954","Software Engineer Summer Intern","Medidata Solutions","New York, NY, US","2024-12-07","internship","","hourly","","","USD",False,"","","","","**About the Team**:
+
+As a Coder Engineer, part of our Rave Platform Engineering solution, you’d be a member of a collaborative team that develops software and provides technical and diagnostic support to our customers.
+
+
+This role would allow you to become a member of our Coder Core team, building an interface to visualize data aggregated from multiple data sources. Over the course of the internship you will contribute as a member of the team with the guidance of several Senior Level Engineers and Architects to drive how we visually represent data from test executions.
+**Responsibilities**:
+* Apply good technical practices such as continuous integration, continuous delivery, source code control and review
+* Keep up to date with the software development and testing industries
+* Follow Medidata’s Standard Operating Procedures to ensure all software meets regulatory and company requirements
+* Work with Agile team members, to write clear and comprehensive user stories
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews and retrospectives
+**Qualifications**:  
+
+
+* Experience programming in Javascript, and/or other object oriented languages such as .NET, C\\#, etc.
+* Experience in version control tools (Git, Bitbucket, etc.)
+* Experience with AWS
+* Experience with docker
+* Strong time management and problem solving skills
+* Able to multi\\-task in a fast\\-paced environment and prioritize activities
+
+  
+
+
+
+
+The salary range posted below refers only to positions that will be physically based in **New York, NY**. As with all roles, Medidata sets ranges based on a number of factors including function, level, candidate expertise and experience, and geographic location. Pay ranges for candidates in locations other than **New York, NY**, may differ based on the local market data in that region. The base hourly pay range for this position is **$32\\.00** an hour and a $3,500 sign on bonus.","","https://www.indeed.com/cmp/Medidata-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/17b412b5dd197d5804d3606cc2294a9e","http://www.medidata.com","New York, NY","1,001 to 5,000","$500M to $1B (USD)","Powering Smarter Treatments and Healthier People"
+"in-268bcf4fde07edfb","indeed","https://www.indeed.com/viewjob?jk=268bcf4fde07edfb","https://careers-cfins.icims.com/jobs/4106/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Engineer, Unqork (Remote)","Crum & Forster","Morristown, NJ, US","2024-12-06","","direct_data","yearly",83900.0,121600.0,"USD",True,"","","","","Crum \\& Forster Company Overview:
+**Crum \\& Forster (C\\&F)**, with a proud history dating to 1822, provides specialty and standard commercial lines insurance products through our admitted and surplus lines insurance companies. C\\&F enjoys a financial strength rating of ""A"" (Excellent) by AM Best and is proud of our superior customer service platform. Our claims and risk engineering services are recognized as among the best in the industry.
+
+
+Our most valuable asset is our people: more than 2000 employees in locations throughout the United States. The company is increasingly winning recognition as a great place to work, earning several workplace and wellness awards, including the **2024 Great Place to Work****®** **Award** for our employee\\-first focus and our steadfast commitment to diversity, equity and Inclusion.
+
+
+C\\&F is part of Fairfax Financial Holdings, a global, billion dollar organization. For more information about Crum \\& Forster, please visit our website: www.cfins.com.
+
+  
+
+
+Job Description:
+**Unqork Software Engineer** **What you will do:**  
+
+* Application Development: Utilize your certification as a Software Engineer to build mid\\-level applications in Unqork, transforming business needs into functional applications. This includes collecting, displaying, editing, and deleting data submitted by end\\-users.
+* Independent and Collaborative Work: Develop entry\\-level applications independently and mid\\-level applications with minimal assistance.
+* Data Management: Capture data using appropriate components and best practices, ensuring data integrity and usability.
+* API Integration: Use the Plug\\-In component to call external APIs, handle the returned data, and troubleshoot API errors. Implement server\\-side module execution as needed.
+* Innovation and Problem\\-Solving: Create new patterns and use cases to innovate with the Unqork platform. Address technical issues and challenges effectively.
+* Team Leadership and Mentorship: Guide the team through technical challenges and mentor individual team members to enhance their skills.
+* User Interface Design: Build simple, user\\-friendly dashboards with functionalities such as opening submissions.
+* Workflow Application Development: Convert business products into workflow applications using basic nodes, customized navigation, and state management.
+* Data Workflow Management: Manipulate simple data structures using Data Workflow to create arrays, tables, and objects.
+* Security Implementation: Implement basic role\\-based access control (RBAC) and security measures.
+* Module Development: Add modules to complex projects based on specific guidelines, even if the overall application architecture is not fully understood.
+* Testing \\& Debugging: Conduct unit testing and participate in end\\-to\\-end testing to ensure solutions function as intended and meet quality standards.
+
+**What you will bring to C\\&F:**  
+
+* Bachelor’s degree with 3\\-5\\+ years of relevant software development experience. \\*Unqork training will be provided.
+* Specialist degree or certification is preferred
+* Knowledge of React, Angular, MongoDB, JSON, and API integration. Proficiency in CSS.
+* Knowledge of cloud platforms like AWS.
+* Experience in the Software Development Life Cycle (SDLC). Agile experience is a plus.
+* Insurance experience is preferred, but not required
+* Strong communication and interpersonal skills to effectively collaborate with team members and stakeholders.
+* Strong problem\\-solving and analytical abilities to interpret business requirements and translate them into technical solutions.
+* Ability to adapt to a changing environment and manage multiple tasks efficiently.
+* Demonstrated self\\-motivation and the ability to stay focused on tasks.
+
+  
+
+\\#LI\\-MS  
+
+\\#LI\\-REMOTE  
+
+
+What C\\&F will bring to you:  
+
+* Competitive compensation package
+* Generous 401K employer match
+* Employee Stock Purchase plan with employer matching
+* Generous Paid Time Off
+* Excellent benefits that go beyond health, dental \\& vision. Our programs are focused on your whole family’s wellness, including your physical, mental and financial wellbeing
+* A core C\\&F tenet is owning your career development, so we provide a wealth of ways for you to keep learning, including tuition reimbursement, industry\\-related certifications and professional training to keep you progressing on your chosen path
+* A dynamic, ambitious, fun and exciting work environment
+* We believe you do well by doing good and want to encourage a spirit of social and community responsibility, matching donation program, volunteer opportunities, and an employee\\-driven corporate giving program that lets you participate and support your community
+
+  
+
+At C\\&F you will BELONG  
+
+If you require special accommodations, please let us know. We value inclusivity and diversity. We are committed to equal employment opportunity and welcome everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you require special accommodations, please let us know  
+
+For California Residents Only: Information collected and processed as part of your career profile and any job applications you choose to submit are subject to our privacy notices and policies, visit https://www.cfins.com/onlineprivacypolicy/ca/noticeatcollection/ for more information.  
+
+Crum \\& Forster is committed to ensuring a workplace free from discriminatory pay disparities and complying with applicable pay equity laws. Salary ranges are available for all positions at this location, taking into account roles with a comparable level of responsibility and impact in the relevant labor market and these salary ranges are regularly reviewed and adjusted in accordance with prevailing market conditions. The annualized base pay for the advertised position, located in the specified area, ranges from a minimum of $83,900 to a maximum of $121,600\\. The actual compensation is determined by various factors, including but not limited to the market pay for the jobs at each level, the responsibilities and skills required for each job, and the employee’s contribution (performance) in that role. To be considered within market range, a salary is at or above the minimum of the range. You may also have the opportunity to participate in discretionary equity (stock) based compensation and/or performance\\-based variable pay programs.","Insurance","https://www.indeed.com/cmp/Crum-&-Forster","","https://www.cfins.com/","","","",""
+"in-300fab0c77455e7c","indeed","https://www.indeed.com/viewjob?jk=300fab0c77455e7c","https://clearroute.teamtailor.com/jobs/5287417-sdet-quality-cloud-engineer","SDET (Quality Cloud Engineer)","ClearRoute","New York, NY, US","2024-12-06","","direct_data","yearly",120000.0,160000.0,"USD",False,"","","","join@clearroute.co.uk","**About Us:**
+
+
+We are a platform engineering consultancy bridging Quality Engineering, Cloud Platforms and Developer Experience.
+
+**Join our pioneering team in New York as we establish ClearRoute US.** As one of the first members, you'll have a unique opportunity to shape our future and contribute to our success. Our values challenge us to do the best we can for ClearRoute, our customers, and most importantly, our team. Together, we'll leverage your expertise to transform organizations and drive innovation. Together, we'll create a thriving consultancy in the US that delivers exceptional value to our clients and fosters a rewarding career for our team as we have already done in London, Sydney, Pune and Sofia.
+
+**Role**
+
+**As a SDET (Quality Cloud Engineer), you'll be a key player in shaping our growing US presence.** Working closely with our leadership team and global colleagues, you'll help us build a world\\-class engineering capability. You'll be exposed to a diverse range of technologies and have the opportunity to continually learn and develop your skills. Your work will span various clients and industries, offering exciting challenges and opportunities for growth.
+
+
+In this role, we're combining the best aspects of Quality Engineering, DevOps, and Cloud Engineering to create a comprehensive and effective approach.
+
+
+Working alongside our clients, your role and responsibilities as a SDET (Quality Cloud Engineer) will focus on:
+
+* **Review \\& Measure** – Ability to understand the current landscape and provide recommendations to provide the greatest business value return.
+* **Implement \\&** Enable – Implement new techniques and processes to improve engineering capability in the Route to Live. Teach our clients through the process and to own once it’s been implemented.
+* **Augment \\& Accelerate** – Deliver engineering solutions across QCE areas, enhancing existing engineering within our clients whilst providing QCE insights to improve Route to Live.
+
+**We're seeking passionate individuals with a strong blend of technical skills and personal qualities.** Curiosity, empathy, and a driven mindset are essential. While we value a cultural fit, we're equally interested in those who can bring fresh perspectives and add value.
+
+**Experience in software engineering is a must**. If you have expertise in one or more of our core areas, that's a bonus, but don't worry if you don't check every box. We're committed to cross\\-training and developing your skills to align with our team's needs.
+
+**Our core areas include:**
+
+* **Cloud** Platforms: Building on the Cloud using automation, infrastructure as code, and best practices for reusable templates.
+* **Quality Engineering**: Implementing test\\-first techniques, test automation, and continuous testing to ensure safe software delivery.
+* **Developer Experience**: Enhancing development tooling and processes to support efficient and effective value delivery.
+
+**Salary**
+
+
+$120,000 \\- 160,000
+
+**Benefits**
+
+**Flexible Wor****k** **Arrangements:** We understand the importance of work\\-life balance. We offer flexible working arrangements to help you achieve your personal and professional goals.
+
+**Profit Sharing:** As a valued member of our team, you'll be eligible for our profit\\-sharing program, which rewards your contributions to the company's success.
+
+**Comprehensive** **B****enefits Package:** We're currently finalizing our comprehensive benefits package, which will include a range of standard US employment benefits. Stay tuned for more details.
+
+**What Next?**
+
+
+ClearRoute is committed to creating an inclusive working environment where people can be themselves at work. We provide equal employment opportunities to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, veteran status, or any other legally protected characteristic in the location in which the candidate is applying.
+
+
+We celebrate individuality and our differences. We understand that some differences may mean that you require changes made to the interview process. We are happy to cater to your needs to make the interview accessible, please let us know by emailing us at join@clearroute.co.uk.","","https://www.indeed.com/cmp/Clearroute","","","","","",""
+"in-298364fd4049e7b1","indeed","https://www.indeed.com/viewjob?jk=298364fd4049e7b1","https://intonenetworks.com/careers-at-intone","Senior C# Developer","Intone Networks","New York, NY, US","2024-12-06","contract","","","","","",False,"","","","","Senior C\\# Developer New York, NY (Hybrid 3 times per week)","","https://www.indeed.com/cmp/Intone-Networks","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e49b869b922dbb240e92500077beef77","https://www.intonenetworks.com","10 Austin Ave, Iselin, New Jersey – 08830","201 to 500","$5M to $25M (USD)",""
+"in-6cb77d87cb8076d6","indeed","https://www.indeed.com/viewjob?jk=6cb77d87cb8076d6","https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2404325&tz=GMT-06%3A00&tzname=America%2FChicago","Senior Health Systems Programmer/Analyst","Stony Brook University Medical Center","St. James, NY, US","2024-12-06","fulltime","direct_data","yearly",85313.0,114820.0,"USD",False,"","","","","**Senior Health Systems Programmer/Analyst**
+
+  
+
+
+**Position Summary**
+
+  
+
+
+
+At Stony Brook Medicine, a Senior Health Systems Programmer/Analyst is a valuable member of our team who will develop and support all applications/systems that the Clinical Information Systems department is responsible for. The incumbent may be assigned to a project team as part of technical build resource, or support any production systems to ensure the availability of the applications. The Clinical Systems Application Specialist may also oversee the work of other analysts as needed.
+
+  
+
+
+
+The Senior Health Systems Programmer/Analyst will be responsible for working directly with end users to obtain build specifications as well as building in Oracle/Cerner Millennium. They will also investigate and resolve Oracle/Cerner application issues using core tools such as Bedrock, Discern, Core Code Builder, Core Event Manager, etc. Daily responsibilities will include researching, designing and building new functionality as needed, working with clinical end users and the vendor to determine the best and most innovative solutions.
+
+  
+
+
+
+
+Qualified candidates will demonstrate superior analytical skills and possess outstanding communication skills while adhering to our high standard of excelle
+
+
+**Duties of a Senior Health Systems Programmer/Analyst may include the following but are not limited to:**
+
+  
+
+
+* Provides support to Clinical Information systems applications which includes our organization’s EHR and cross applications used in the clinical setting
+* Provides technical and strategic input to leadership, reviews, analyzes, obtains workflow/design specifications and implements change/enhancement requests to help drive transformational changes.
+* Plays an active role as a technical expert during application development and participates in brainstorming and design discussions with team members which includes participation in new projects when appropriate.
+* Provides technical guidance and performs investigation to help resolve application issues including cross application challenges in order to maintain stability and reliability of all systems.
+* Works closely with Project Managers on all aspects of project development and keeps management informed of project status.
+* Provides assistance in testing system functionality as well as validating application integrity to ensure that current and new applications are technically sound
+* Participates in Cerner application upgrades and implementations.
+* Debug system problems as needed (his/her own, as well as programs written by others).
+* Participates in all global and departmental process and system design activities
+* Adheres to coding guidelines and standards of Information technology and documents all work according to standards
+* Adheres to customer service standards.
+* Provide oncall/recall support.
+* Provides reporting needs when necessary.
+* All other duties as assigned
+
+  
+
+
+**Qualifications**
+
+  
+
+
+**Required Qualifications:**
+
+  
+
+
+* Experience with Oracle/Cerner Millennium applications
+
+
+* A Bachelor’s Degree in computer science, information systems or related field will ensure that the incumbent has the conceptual skills required for this role. In lieu of computer science or information systems related degree, 6\\-8 years of experience as a healthcare IT Analyst will be considered
+* Minimum four (4\\) years of IT experience in a complex healthcare environment, preferably in academic medical centers or tertiary care settings supporting and implementing applications in a client server environment
+
+
+* IT related experience that demonstrates a thorough understanding of the standard tools, workflow processes, and/or procedures and concepts used in the deployment and development of application software necessary to run the healthcare systems business, clinical or financial systems.
+
+
+* Proficient in MS Office Products
+
+  
+
+
+**Preferred Qualifications:**
+
+  
+
+
+* Experience in hospital systems, Cerner Discern Apps, Powerforms, mPages, Depart/Dynamic Documentation, Security Management/Maintenance, CCL, FSI Interfaces, Cerner Bedrock Wizard, Citrix Applications
+
+  
+
+
+**Special Notes****:** **Resume/CV should be included with the online application.**
+
+
+**Posting Overview****:** This position will remain posted until filled or for a maximum of 90 days. An initial review of all applicants will occur two weeks from the posting date. Candidates are advised on the application that for full consideration, applications must be received before the initial review date (which is within two weeks of the posting date).
+
+  
+
+
+
+If within the initial review no candidate was selected to fill the position posted, additional applications will be considered for the posted position; however, the posting will close once a finalist is identified, and at minimal, two weeks after the initial posting date. Please note, that if no candidate were identified and hired within 90 days from initial posting, the posting would close for review, and possibly reposted at a later date.
+
+
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+  
+
+
+* Stony Brook Medicine is a smoke free environment. Smoking is strictly prohibited anywhere on campus, including parking lots and outdoor areas on the premises.
+* All Hospital positions may be subject to changes in pass days and shifts as necessary.
+* This position may require the wearing of respiratory protection, which may prohibit the wearing of facial hair.
+* This function/position maybe designated as “essential.” This means that when the Hospital is faced with an institutional emergency, employees in such positions may be required to remain at their work location or to report to work to protect, recover, and continue operations at Stony Brook Medicine, Stony Brook University Hospital and related facilities.
+
+  
+
+
+**Prior to start date, the selected candidate must meet the following requirements:**
+
+  
+
+
+* Successfully complete pre\\-employment physical examination and obtain medical clearance from Stony Brook Medicine's Employee Health Services\\*
+* Complete electronic reference check with a minimum of three (3\\) professional references.
+* Successfully complete a 4 panel drug screen\\*
+* Meet Regulatory Requirements for pre\\-employment screenings.
+* Provide a copy of any required New York State license(s)/certificate(s).
+
+  
+
+
+**Failure to comply with any of the above requirements could result in a delayed start date and/or revocation of the employment offer.**
+
+  
+
+
+* **The hiring department will be responsible for any fee incurred for examination**.
+
+
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_  
+
+
+
+Stony Brook University is committed to excellence in diversity and the creation of an inclusive learning, and working environment. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, familial status, sexual orientation, gender identity or expression, age, disability, genetic information, veteran status and all other protected classes under federal or state laws.
+
+  
+
+
+**If you need a disability\\-related accommodation, please call the University Office of Equity and Access at (631\\)632\\-6280\\.**
+
+  
+
+
+***In accordance with the Title II Crime Awareness and Security Act a copy of our crime statistics can be viewed******here******.***
+
+  
+
+
+
+Stony Brook University Hospital, consistent with our shared core values and our intent to achieve excellence, remains dedicated to supporting healthier and more resilient communities, both locally and globally.
+
+
+**Anticipated Pay Range:**
+
+
+
+The starting salary range (or hiring range) for this position is \\- $85313 \\- $114820 / year.
+
+
+
+The above salary range represents SBUH’s good faith and reasonable estimate of the range of possible compensation at the time of posting. The specific salary offer will be based on the candidate’s validated years of comparable experience. Any efforts to inflate or misrepresent experience are grounds for disqualification from the application process or termination of employment if hired.
+
+
+
+Some positions offer annual supplemental pay such as:
+
+
+* Location pay for UUP, CSEA \\& PEF full\\-time positions ($3400\\)
+
+
+* 
+
+
+
+Your total compensation goes beyond the number in your paycheck. SBUH provides generous leave, health plans, and state pension that add to your bottom line.
+
+  
+
+
+
+
+**Visit our****WHY WORK HERE** **page to learn about the total rewards we offer.**
+
+  
+
+
+Job Number: 2404325**Official Job Title****:** Senior Programmer/Analyst**Job Field****:** Information Technology**Primary Location****:** US\\-NY\\-St. James**Department/Hiring Area****:** Clinical Information Systems \\- Application Support**Schedule****:** Full\\-time **Shift** **:**Day Shift **Shift Hours****:** 0800\\-1630 **Pass Days****:** Sat, Sun**Posting Start Date****:** Dec 6, 2024**Posting End Date****:** Mar 6, 2025, 10:59:00 PM**Salary****:**85313 \\- 114820**Salary Grade****:**SL4**SBU Area****:**Stony Brook University Hospital","Health Care","https://www.indeed.com/cmp/Stony-Brook-University-Medical-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93a4432f550fec909ae14d458639d515","http://www.stonybrookmedicine.edu","Stony Brook","5,001 to 10,000","$500M to $1B (USD)",""
+"in-e264d7f7f655612e","indeed","https://www.indeed.com/viewjob?jk=e264d7f7f655612e","https://join.pmicareers.com/gb/en/job/PMIPMIGB5002EXTERNALENGB/Web-Frontend-Technical-Lead-Adobe?utm_source=indeed&utm_medium=phenom-feeds","Web Frontend Technical Lead - Adobe","Philip Morris International","Stamford, CT, US","2024-12-06","fulltime","direct_data","yearly",136000.0,165000.0,"USD",False,"","","","","**Web Frontend Technical Lead – Adobe – Stamford, CT**
+
+  
+
+Be a part of a revolutionary change!
+
+  
+
+At Philip Morris International (PMI), we’ve chosen to do something incredible. We’re totally transforming our business and building our future on one clear purpose – to deliver a smoke\\-free future.
+
+  
+
+With huge change, comes huge opportunity. So, if you join us, you’ll enjoy the freedom to dream up and deliver better, brighter solutions and the space to move your career forward in endlessly different directions. Our success depends on people who are committed to our purpose and have an appetite for progress.
+
+  
+
+Our beautiful HQ in Stamford, CT is just steps away from the Stamford Metro\\-North Train Station and easily accessible from NYC.
+
+ **Your ‘day to day’:**
+
+* Lead the technical direction for specific Adobe Experience Manager (AEM) projects and features, providing guidance during daily stand\\-ups and technical discussions.
+* Help establish and maintain development standards for Adobe Experience Manager (AEM) practices, collaborating with architects on OSGI services and workflow implementations.
+* Make key architectural decisions for team\\-level solutions, focusing on creating reusable components and templates that enable efficient content authoring.
+* Contribute to headless content delivery strategy and oversee the development of APIs using AEM Content Services architecture.
+* Mentor developers on AEM best practices through code reviews and technical guidance.
+* Work closely with product owners to translate business requirements into technical solutions while participating in sprint planning.
+* Provide technical leadership and support for complex AEM challenges within your team's scope.
+
+ **Who we’re looking for:**
+
+* 6\\+ years of experience architecting, building, and deploying solutions using Adobe Experience Cloud (AEC) products, especially Adobe Experience Manager (AEM) required
+* Expert knowledge of AEM components, templates, workflows, and integrations required
+* Thorough knowledge of AEM back\\-end development with OSGI services required
+* Strong understanding of headless/decoupled CMS architectures and AEM Content Services
+* Proficiency in developing AEM applications using Java, JavaScript, HTML, and CSS
+* Experience leading development teams in an Agile environment
+* Fluent in English
+* Legally authorized to work in the U.S.
+
+  
+
+Annual Base Salary Range: $136,000\\-$165,000
+
+ **What we offer**
+
+* We offer a competitive base salary, annual bonus (applicable based on level of position), great medical, dental and vision coverage, 401k with a generous company match, incredible wellness benefits, commuter benefits, pet insurance, generous PTO, and much more!
+* We have implemented Smart Work, a hybrid model of working that promotes flexibility in the workplace.
+* Seize the freedom to define your future and ours. We’ll empower you to take risks, experiment and explore.
+* Be part of an inclusive, diverse culture where everyone’s contribution is respected; Collaborate with some of the world’s best people and feel like you belong.
+* Pursue your ambitions and develop your skills with a global business – our staggering size and scale provides endless opportunities to progress.
+* Take pride in delivering our promise to society: To improve the lives of millions of smokers.
+
+  
+
+
+
+PMI is an Equal Opportunity Employer.
+
+  
+
+PMI is headquartered in Stamford, Conn., and its U.S. affiliates have more than 2,300 employees.
+
+  
+
+PMI has been an entirely separate company from Altria and Philip Morris USA since 2008\\. PMI’s affiliates first entered the U.S. market following the company’s acquisition of Swedish Match in late 2022\\.
+
+  
+
+Philip Morris International and its U.S. affiliates are working to deliver a smoke\\-free future. Since 2008, PMI has invested $12\\.5 billion globally to develop, scientifically substantiate and commercialize innovative smoke\\-free products for adults who would otherwise continue to smoke with the goal of transitioning legal\\-age consumers who smoke to better alternatives. In 2022, PMI acquired Swedish Match – a leader in oral nicotine delivery – creating a global smoke\\-free champion led by the *IQOS* and *ZYN* brands. The U.S. Food and Drug Administration has authorized versions of PMI’s *IQOS* electronically heated tobacco devices and Swedish Match’s General snus as Modified Risk Tobacco Products and renewal applications for these products are presently pending before the FDA. For more information, please visit www.pmi.com/us and www.pmiscience.com.","","https://www.indeed.com/cmp/Philip-Morris-International","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/25a9dda7dc6a359b9f1edfa21c8fd5a6","https://www.pmi.com/","Stamford, CT","10,000+","Decline to state","PMI is the leading international tobacco company with a difference. With a team of colleagues worldwide, we’re ready to have global impact and disrupt an industry, together."
+"in-354c7e06bb3931ee","indeed","https://www.indeed.com/viewjob?jk=354c7e06bb3931ee","https://jobs-galaxe.icims.com/jobs/13183/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Sr. QA Automation Engineer","GalaxE.Solutions","Morris Plains, NJ, US","2024-12-06","","direct_data","yearly",102000.0,122000.0,"USD",True,"","","","","What You Will Do:  
+
+* Identify test requirements, test scenarios and test data requirements
+* Involve in test planning, writing test cases/scripts, creating reusable test data, test case automation, and test execution
+* Perform planning, test design and test execution for both frontend UI and backend services validation
+* Develop automation test scenarios and enhance automation test platform
+* Develop Test Automation scripts using Cucumber Framework and Selenium
+* Create and facilitate test plans/reviews with team
+* Execute manual and automated test cases
+* Create test summary report and get QA sign\\-off
+
+
+Skills and Experience You Will Need:
+
+Required:* 8\\+ years of working experience in automating tests using Selenium and TestNG
+* 6\\+ years of thorough knowledge of JavaScript, HTML, Java, Scrum, and SQL
+* 6\\+ years of proven experience in the software testing domain
+* 6\\+ years of quality analyst technical experience
+* Knowledge of quality assurance testing tools.
+
+
+Desired:* Experience with .NET, Python
+
+
+Education:* Bachelor’s degree in computer science, management information, or any other related field
+
+
+Who We Are:
+
+GalaxE, now Endava, is a professional IT services firm that specializes in platform\\-driven solutions and the use of automation to achieve enterprise business transformation and mission\\-critical change for some of the largest companies in the world. Using our proprietary solution set, **GxFource®,** we apply machine learning techniques and predictive analytics tools as part of a broad artificial intelligence strategy that provides effective impact and data\\-driven business transformation.  
+
+Since its founding, GalaxE has been dedicated to advancing the benefits of technology. Recently, we have joined forces with Endava, to offer our employees global exposure and enhanced opportunities. As we continue that legacy and look to the future, a focus on business enablement through agile, cost\\-efficient, and effective integration of people, process, and technology anchors our success. We revolutionize change in the costs of doing business that transform companies and their ability to leap beyond the competition.  
+
+We value people and are committed to diversity and inclusion where our employees are made to feel comfortable and are encouraged to be authentic.  
+
+We are always looking for passionate, entrepreneurial\\-minded innovators and disrupters; game\\-changers that take ownership of the work they produce and bring it each and every day. Working with like\\-minded team members you will get a chance to discover, develop, and use cutting\\-edge technologies to transform the way we deliver creative business solutions.  
+
+Sound like you? Join us and find out for yourself what it means for you, and your career, to be part of the GalaxE team. Let’s build something, together.* *Equal Opportunity Employer/Veterans/Disabled*
+
+*\\*\\* Pay is based on several factors including market location and may vary depending on actual job\\-related knowledge, skills, and experience.* **Physical Requirements:*** Prolonged periods of remaining stationary at a desk and working on a computer
+* Must be able to lift to 15 lbs., as needed
+* Must be able to work on\\-site (corporate/client offices), as needed (not applicable for 100% remote roles)
+* Occasionally required to bend, kneel, crouch, and reach overhead.
+* Hand\\-eye coordination necessary to operate computers and various pieces of office equipment.
+* Specific vision abilities required include close vision, the ability to tolerate fluorescent lighting, and the ability to adjust focus.
+
+
+Employees must be able to perform the physical requirements of the position satisfactorily and, if requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship.  
+
+For more information, please visit https://info.endava.com/galaxe\\-has\\-joined\\-endava","","https://www.indeed.com/cmp/Galaxe.solutions","","http://www.galaxesolutions.com","Somerset, NJ","1,001 to 5,000","$25M to $100M (USD)",""
+"in-b4d57c7155078454","indeed","https://www.indeed.com/viewjob?jk=b4d57c7155078454","https://jobs-galaxe.icims.com/jobs/13185/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cognos Software Configuration Engineer","GalaxE.Solutions","Berkeley Heights, NJ, US","2024-12-06","","direct_data","yearly",125000.0,145000.0,"USD",True,"","","","","What You Will Do:
+* Install, configure, and maintain IBM Cognos suite of tools (Cognos Analytics, Cognos Report Studio, Cognos Dashboard, etc.).
+* Work with business stakeholders to define reporting and dashboard requirements and translate them into actionable Cognos solutions.
+* Design and develop custom reports, dashboards, and data models that align with business objectives.
+* Ensure Cognos environments are configured to meet business needs, including scalability, performance, and user access requirements.
+* Set up and maintain Cognos security, user roles, permissions, and access controls.
+* Integrate Cognos with other enterprise systems (ERP, CRM, data warehouses, etc.).
+* Troubleshoot, diagnose, and resolve technical issues related to Cognos software, databases, and servers.
+* Support the deployment of new versions, patches, and updates to the Cognos platform.
+* Perform data validation and reconciliation between Cognos and source systems.
+* Monitor and optimize the performance of Cognos reports, dashboards, and data queries.
+* Implement best practices for performance tuning and large dataset handling.
+* Analyze system logs, track performance metrics, and recommend improvements.
+* Document the Cognos system architecture, configurations, and customizations.
+* Provide training to end users and stakeholders on how to use Cognos reports, dashboards, and other BI tools effectively.
+* Develop user manuals and technical documentation for the Cognos environment.
+
+
+Skills and Experience You Will Need:
+
+Required:* Expertise with Cognos. Able to install, configure, and maintain IBM Cognos suite of tools (Cognos Analytics, Cognos Report Studio, Cognos Dashboard, etc.).
+* Experience with designing and developing custom reports, dashboards, and data models that align with business objectives.
+* Experience with set up and maintaining Cognos security, user roles, permissions, and access controls.
+* Able to integrate Cognos with other enterprise systems (ERP, CRM, data warehouses, etc.).
+* Able to troubleshoot, diagnose, and resolve technical issues related to Cognos software, databases, and servers.
+* Experience with documenting Cognos system architecture, configurations, and customizations; and develop user manuals and technical documentation for the Cognos environment.
+
+
+Who We Are:
+
+GalaxE, now Endava, is a professional IT services firm that specializes in platform\\-driven solutions and the use of automation to achieve enterprise business transformation and mission\\-critical change for some of the largest companies in the world. Using our proprietary solution set, **GxFource®,** we apply machine learning techniques and predictive analytics tools as part of a broad artificial intelligence strategy that provides effective impact and data\\-driven business transformation.  
+
+Since its founding, GalaxE has been dedicated to advancing the benefits of technology. Recently, we have joined forces with Endava, to offer our employees global exposure and enhanced opportunities. As we continue that legacy and look to the future, a focus on business enablement through agile, cost\\-efficient, and effective integration of people, process, and technology anchors our success. We revolutionize change in the costs of doing business that transform companies and their ability to leap beyond the competition.  
+
+We value people and are committed to diversity and inclusion where our employees are made to feel comfortable and are encouraged to be authentic.  
+
+We are always looking for passionate, entrepreneurial\\-minded innovators and disrupters; game\\-changers that take ownership of the work they produce and bring it each and every day. Working with like\\-minded team members you will get a chance to discover, develop, and use cutting\\-edge technologies to transform the way we deliver creative business solutions.  
+
+Sound like you? Join us and find out for yourself what it means for you, and your career, to be part of the GalaxE team. Let’s build something, together.* *Equal Opportunity Employer/Veterans/Disabled*
+
+*\\*\\* Pay is based on several factors including market location and may vary depending on actual job\\-related knowledge, skills, and experience.* **Physical Requirements:*** Prolonged periods of remaining stationary at a desk and working on a computer
+* Must be able to lift to 15 lbs., as needed
+* Must be able to work on\\-site (corporate/client offices), as needed (not applicable for 100% remote roles)
+* Occasionally required to bend, kneel, crouch, and reach overhead.
+* Hand\\-eye coordination necessary to operate computers and various pieces of office equipment.
+* Specific vision abilities required include close vision, the ability to tolerate fluorescent lighting, and the ability to adjust focus.
+
+
+Employees must be able to perform the physical requirements of the position satisfactorily and, if requested, reasonable accommodations will be made to enable employees requiring accommodations to perform the essential functions of their jobs, absent undue hardship.  
+
+For more information, please visit https://info.endava.com/galaxe\\-has\\-joined\\-endava","","https://www.indeed.com/cmp/Galaxe.solutions","","http://www.galaxesolutions.com","Somerset, NJ","1,001 to 5,000","$25M to $100M (USD)",""
+"in-b4dacbf6b1f14ce9","indeed","https://www.indeed.com/viewjob?jk=b4dacbf6b1f14ce9","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7cf2fb51-6207-4e4f-bc51-66e9507c846b&ccId=19000101_000001&jobId=538488&source=IN&lang=en_US","Senior Software Developer - Job ID 3022","iconectiv, LLC.","Bridgewater, NJ, US","2024-12-06","fulltime","direct_data","yearly",111000.0,140551.0,"USD",True,"","","","","**\\#Location \\- US Remote \\- Eastern or Central Time Zones only**
+
+ **About iconectiv**  
+
+Your business and your customers need to confidently access and exchange information simply, seamlessly and securely. iconectiv's extensive experience in information services, digital identity and numbering intelligence helps you do just that. In fact, more than 5K customers rely on our data exchange platforms each day to keep their networks, devices and applications connected and 2B consumers and businesses protected. Our cloud\\-based information as a service network and operations management and numbering solutions span trusted communications, digital identity management and fraud prevention. For more information, visit www.iconectiv.com. Follow us on X and Linkedln.
+
+**Responsibilities:**
+
+  
+
+Looking for an experienced Front End software developer who will be responsible for building Common Language product enhancements and solutions to meet customer and product roadmap business needs.
+
+* Develop and enhance GUI components for an existing application
+* Implement using best\\-in\\-class software development methodologies as well as test all modification requests
+* Handle complex problems that may arise during solution implementation
+
+**Requirements:**
+
+* 10\\+ years' experience as a Java Developer
+* Angular developer with experience in Node JS environment using Eclipse IDE and GIT
+* Working knowledge of Typescript/JavaScript, HTML, CSS, Bootstrap, JQuery
+* Experience working in an Agile environment with changing priorities and tight schedules, utilizing ALM tools
+* US Citizenship
+
+ **Additional Skills:**
+
+* Java/Spring framework, MySQL, and Apache Tomcat a plus
+
+ **Full Time Employee benefits:**
+
+* Health care benefits
+* 401(k) with company match
+* Holiday pay
+* Paid time off (inclusive of a volunteer day)
+* Tuition Reimbursement upon approval
+
+  
+
+DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of employees assigned to this position. Therefore, employees assigned may be required to perform additional job tasks required by the manager.
+
+
+We are proud to be an EOE Minorities/Females/Protected Veterans/Disabled employer. The Company’s status is a VEVRAA Federal Contractor. Request Priority Protected Veteran Referrals. We maintain a drug\\-free workplace and perform pre\\-employment substance abuse testing.","","https://www.indeed.com/cmp/Iconectiv,-Llc.","","","","","",""
+"in-32d6714f5709160f","indeed","https://www.indeed.com/viewjob?jk=32d6714f5709160f","https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/138231","Futures Engineering Team - Software Engineer - GBM Public - NYC","Goldman Sachs","New York, NY, US","2024-12-06","parttime, fulltime","direct_data","yearly",110000.0,130000.0,"USD",False,"","","","","**What We Do**
+
+The Futures Engineering team at Goldman Sachs specializes in the design and development of software that supports a **global, 24\\-hour trading** business. We work alongside the business to build **scalable and resilient applications** used by our clients and internal Trading and Sales desks.
+
+
+We build systems capable of processing 1000s of messages per second and terabytes of data. We develop user\\-facing tooling and large\\-scale post\\-execution systems that help drive the success of the fast\\-paced Futures business. We build reference data services that expose the vast Futures product universe to our trading applications. We design and implement software that directly integrates with other financial firms and Futures exchanges across the Street.
+
+
+The team is working on a **multi\\-year uplift** of the order trading workflow platform. This is a great opportunity to help build the next generation of high touch Futures trading applications at Goldman Sachs. In this role, you will work closely with the desk to design **highly customizable and flexible tooling** to support our sales traders’ as they execute orders on behalf of GS clients.
+
+
+We are a team of **full\\-stack software engineers** empowered to utilize leading open\\-source software and proprietary GS technologies in order to build enterprise\\-grade systems that align with business goals. We work with a wide range of technologies; our stack is predominantly written in **Java** with **Kafka** \\-based messaging and **Hadoop/HBase** based persistent stores. We also work heavily with the **React** framework for front\\-end application development and rely on a **git\\-based SDLC** .
+
+
+The Futures Agency business at Goldman Sachs is responsible for providing our clients with **electronic order execution** on Futures exchanges located across the globe. We offer GS clients both low\\-latency direct market access and a customizable high\\-touch sales trader workflow. We utilize **proprietary algorithms** to execute our clients’ orders and offer many **post\\-execution services** to help our clients better manage their risk.
+
+
+**Your Opportunity**
+
+We are looking for a hands\\-on software engineer that can excel in the end\\-to\\-end development process, gathering requirements from sales and trading desks, designing solutions, creating execution plans, and implementing, testing and delivering high\\-quality results.
+
+
+You will have the opportunity to work with large\\-scale distributed systems that have numerous touchpoints with a variety of internal and external teams.
+
+
+You will have the opportunity to work both independently and collaboratively within teams, demonstrating the ability to deliver individually, while also supporting group initiatives to achieve shared goals.
+
+
+The ideal candidate will bring an agile mindset and be familiar with technical standards and best practices.
+
+
+Be given a platform to contribute fresh ideas and innovative solutions to an ever changing fast passed front office problems.
+
+
+**Qualifications**
+
+* BS degree or higher in Engineering field, preferably Computer Science
+* 1\\-3 years of software engineering experience
+* Java development experience
+* UI development experience
+* Familiarity with large scale software architecture and design
+* Strong communication skills
+
+**Salary Range**  
+
+The expected base salary for this New York, New York, United States\\-based position is $110000\\-$130000\\. In addition, you may be eligible for a discretionary bonus if you are an active employee as of fiscal year\\-end.
+
+
+**Benefits**  
+
+Goldman Sachs is committed to providing our people with valuable and competitive benefits and wellness offerings, as it is a core part of providing a strong overall employee experience. A summary of these offerings, which are generally available to active, non\\-temporary, full\\-time and part\\-time US employees who work at least 20 hours per week","Banks And Financial Services, Banks And Financial Services","https://www.indeed.com/cmp/Goldman-Sachs","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b7ac5861c1a32f420ae39e799363674d","http://www.goldmansachs.com","200 West St.
+New York NY, United States 10282","10,000+","more than $10B (USD)","Founded in 1869, the firm is headquartered in New York and maintains offices in all major financial centers around the world."
+"in-4492e03c2d7ad690","indeed","https://www.indeed.com/viewjob?jk=4492e03c2d7ad690","https://recruiting.ultipro.com/COA1007COAST/JobBoard/c31fa32b-a98c-2595-d6d8-e023299b5b94/OpportunityDetail?opportunityId=cd4a1ce9-cf63-4731-82b0-b7dbe9465072&postingId=a37eea30-d833-45f6-995a-147dc92b937c","Software Engineer","Coast Professional, Inc.","New York, NY, US","2024-12-06","fulltime","direct_data","yearly",105000.0,115000.0,"USD",True,"","","","","**Benefits**
+
+
+* 401(k)
+* 401(k) matching
+* AD\\&D insurance
+* Dental insurance
+* Disability insurance
+* Employee assistance program
+* Health insurance
+* Life insurance
+* Paid sick time
+* Paid time off
+* Paid training
+* Referral program
+* Vision insurance
+
+
+**Job type**
+
+
+* Full Time
+
+
+**Number of Openings**
+
+
+* 2
+
+
+**Pay**
+
+
+* Annual salary $105,000 \\- $115,000
+
+
+**Schedule**
+
+
+* Monday \\- Thursday 8AM \\- 5PM
+* Friday 8AM \\- 4:30PM
+
+
+**Job Summary**
+
+
+
+The Software Engineer will play a key role in working within the legacy application as it is being updated to a cloud\\-native platform which follows modern design standards.
+
+
+**Essential Duties and Responsibilities**
+
+
+* Designs, codes, tests and debugs applications and components that meet all technical specifications and business requirements per assigned work items.
+* Collaborates closely with stakeholders, product owners, and feature team on developing requirements.
+* Refines business requirements into technical solutions, recommend alternative technical and business approaches, and lead engineering efforts to meet aggressive timelines with optimal solutions.
+* Perform code reviews.
+* Operational Excellence – build, deploy, monitor, and operation of production services.
+* Communicates effectively with business stakeholders and technical team.
+* Mentor junior software engineers.
+* Other duties as required.
+
+
+**Job Qualifications**
+
+
+**Required**
+
+
+* Bachelor's Degree in Computer Science, Information Technology or Computer Engineering or related field or 4 years relevant experience will be considered in lieu of a degree.
+* 2\\+ years experience in:
+	+ Full lifecycle of software development projects in an agile environment.
+	+ Hands\\-on technical expertise in building web applications and RESTful web services.
+	+ MS SQL, PostgreSQL, or other similar relational database management system.
+	+ .NET Core or similar object\\-oriented programming language.
+	+ Angular, React, or other JavaScript frameworks / libraries.
+* Excellent verbal and written communication skills
+* Must be a United States citizen
+
+
+**Preferred**
+
+
+* Experience with Domain Driven Design.
+* Experience with Event Driven Architecture.
+* Experience with application containerization, deployment, and orchestration across environments.
+* Experience with Ci/CD and test automation.
+* Experience building cloud\\-native applications in Azure or similar cloud service provider.
+* Basic understanding of cloud infrastructure and automated provisioning \\& configuration management.
+* Basic understanding of networking and internet protocols.
+* Knowledge of Encryption, Public Key Infrastructure (PKI), understanding of OWASP.
+
+
+**Working Conditions**
+
+
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+
+The employee is regularly required to talk or hear. The noise level in the work environment is usually moderate. Specific vision abilities required by this position include close vision, distance vision, color vision, peripheral vision, and the ability to adjust focus. The employee frequently is required to use hands or finger, handle, or feel objects, tools or controls. The employee is occasionally required to stand; walk; sit; reach with hands and arms. The employee must occasionally lift and/or move up to 10 pounds.
+
+
+**Security**
+
+
+
+Information and Physical Security is the responsibility of every employee. In your position you are required to safeguard the computer systems by following proper username and password management which includes selecting challenging passwords and committing them to memory, they should not be written down or stored where others can freely have access. This also includes securing your desk and workstation when you are not there. This includes locking your session and putting sensitive paperwork away when not physically at your desk. You are not to share your username or password with anyone. The physical security of our offices of are equal importance, never shadow or let someone shadow your entry into a Coast Professional, Inc. facility. If this occurs quickly report this action immediately. You are required to follow all Information Technology policies and procedures regarding the management of your system accounts and equipment. If you witness any security violation you should immediately report it to management.
+
+
+**Disclaimer**
+
+
+
+This job description reflects management’s assignment of essential job functions but is not intended to be a comprehensive list of all activities, duties and responsibilities required by the job incumbent. Nothing in the herein restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+
+
+
+This document does not create an employment contract, implied or otherwise, other than an ""at will"" relationship.
+
+
+***Coast Professional, Inc. is an Equal Opportunity/Affirmative Action, M/F/Vet/Disability Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin.***
+
+#### **Education**
+
+
+Required* High School or better
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60\\-1\\.35(c)","Banks And Financial Services","https://www.indeed.com/cmp/Coast-Professional,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d81a85cefdea91727d63c872d4e04aa9","http://www.coastprofessional.com","Geneseo, NY","501 to 1,000","$25M to $100M (USD)","Coast is a leading vendor for hundreds of colleges and universities as well as for the United States Department of Education."
+"in-42bc5fd029a1cfc6","indeed","https://www.indeed.com/viewjob?jk=42bc5fd029a1cfc6","https://www.capgemini.com/jobs/03H4nJMB_1WPMhEh7AG5/077514/","Senior Software Engineer - Senior Release Train Engineer","Capgemini","New York, NY, US","2024-12-06","fulltime","direct_data","yearly",110000.0,125000.0,"USD",False,"","","","","#### **Job location:**
+
+**USA Based (Local in Boston area preferred) or needs to work 100% in US EST and able to travel for on\\-site PI Planning facilitation and other workshops as needed.**
+
+#### **Job description:**
+
+**Capgemini is looking for a Release Train Engineer to join our team.**
+
+#### **Key Responsibilities:**
+
+* **Acts as a servant leader and mentor within an Agile Release Train (ART),**
+* **Provide mentorship and support to Agile teams, Scrum Masters, and Product Owners to optimize their performance and adherence to SAFe principles.**
+* **Act as a liaison between the ART, stakeholders, and leadership, ensuring transparency and alignment on goals**
+
+#### **Required Skills:**
+
+* **SAFe RTE certification**
+* **Proven ability as an RTE**
+* **proven experience in Agile/Scrum (Scrum Master, Product Owner/Manager, Agile Coach, with preference for background as SM/Agile Coach)**
+
+#### **Life at Capgemini**
+
+**Capgemini supports all aspects of your well\\-being throughout the changing stages of your life and career. For eligible employees, we offer:**
+
+* **Flexible work**
+* **Healthcare including dental, vision, mental health, and well\\-being programs**
+* **Financial well\\-being programs such as 401(k) and Employee Share Ownership Plan**
+* **Paid time off and paid holidays**
+* **Paid parental leave**
+* **Family building benefits like adoption assistance, surrogacy, and cryopreservation**
+* **Social well\\-being benefits like subsidized back\\-up child/elder care and tutoring**
+* **Mentoring, coaching and learning programs**
+* **Employee Resource Groups**
+* **Disaster Relief**
+
+#### **About Capgemini**
+
+**Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and balanced world, while crafting tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all motivated by its market leading capabilities in AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2023 global revenues of €22\\.5 billion.**
+
+**Get The Future You Want \\|** **www.capgemini.com**
+
+#### **Disclaimer**
+
+**Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.**
+
+**This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever vital to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.**
+
+**Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.**
+
+**Click the following link for more information on your rights as an Applicant** **http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law**
+
+**Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.**
+
+**Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.**
+
+  
+
+  
+
+**Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue\\-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $110,000 \\- $125,000\\. This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees. Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.**","","https://www.indeed.com/cmp/Capgemini","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/705e8467dd710fe59b83f3f0d13d2b16","https://www.capgemini.com","Paris","10,000+","more than $10B (USD)","With more than 325,000 people, Capgemini is present in over 50 countries and celebrated its 50th Anniversary year in 2017."
+"in-d220f70a6b98aa31","indeed","https://www.indeed.com/viewjob?jk=d220f70a6b98aa31","https://intellibee.my.salesforce-sites.com/apps/jobs?id=a0AUU000002AQMf2AO","AML Developer - Oracle OFSAA FCCM","Intellibee Inc","Jersey City, NJ, US","2024-12-06","","direct_data","yearly",97500.0,123457.0,"USD",False,"","","","","Looking for a mix of:
+
+* Must have 5\\+ years of experience in implementing/maintaining Oracle OFSAA FCCM (Formally known as Mantas) solutions
+* Strong knowledge of PL/SQL , Unix, Shell scripting and Apache Tomcat
+* focus on experience with Oracle OFSAA/FCCM (f.k.a Mantas Solution) hands on skills on AML transactions monitoring where the candidate has built the transaction monitoring scenarios in the tool
+* Exhibit strong subject matter expertise in the Compliance domain on OFSAA/FCCM Anti Money Laundering and Enterprise Case Management (ECM) products
+* Develop, implement and support OFSAA/FCCM suite of products
+* Experience working on OFSAA/FCCM Compliance Studio
+
+
+Randstad is partnering with a financial services firm that is looking for a contract AML Developer. The individual will work with business and IT groups to implement, develop and enhance Oracle AML Transaction Monitoring solution (Oracle FCCM/ OFSAA / Mantas). The developer must be capable of working in a collaborative environment to support rapid development and delivery of highly demanding projects.
+
+**Looking for 5\\+ years of experience in implementing/maintaining Oracle OFSAA FCCM (Formally known as Mantas) solutions:**
+
+* Exhibit strong subject matter expertise in the Compliance domain on OFSAA/FCCM Anti Money Laundering and Enterprise Case Management (ECM) products
+* Develop, implement and support OFSAA/FCCM suite of products
+* Expertise in FCCM Scenario Manager to create new and maintain custom AML scenarios
+* Experience with ECM Designer to identify and configure new alert/case types and new case workflows using PMF
+* Good understanding of FCCM batch processing – Ingestion, BDF, scenario and ECM batches
+* Good knowledge of OFSAA/FCCM data models such as CASA and FCDM
+* Experience working on OFSAA/FCCM Compliance Studio
+* Strong knowledge of PL/SQL , Unix, Shell scripting and Apache Tomcat","Internet And Software","https://www.indeed.com/cmp/Intellibee-Inc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/37b7727e3eb2acd948f6f4f73c2701ba","","","","",""
+"in-2af54cdad751093c","indeed","https://www.indeed.com/viewjob?jk=2af54cdad751093c","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7cf2fb51-6207-4e4f-bc51-66e9507c846b&ccid=19000101_000001&lang=en_US&jobId=538488","Senior Software Developer","iconectiv, LLC.","Bridgewater, NJ, US","2024-12-06","fulltime","direct_data","yearly",111000.0,140551.0,"USD",True,"","","","","**\\#Location \\- US Remote \\- Eastern or Central Time Zones only**
+
+  
+
+**About iconectiv**  
+
+Your business and your customers need to confidently access and exchange information simply, seamlessly and securely. iconectiv's extensive experience in information services, digital identity and numbering intelligence helps you do just that. In fact, more than 5K customers rely on our data exchange platforms each day to keep their networks, devices and applications connected and 2B consumers and businesses protected. Our cloud\\-based information as a service network and operations management and numbering solutions span trusted communications, digital identity management and fraud prevention. For more information, visit www.iconectiv.com . Follow us on X and Linkedln.
+
+
+**Responsibilities:**  
+
+
+
+Looking for an experienced Front End software developer who will be responsible for building Common Language product enhancements and solutions to meet customer and product roadmap business needs.
+
+
+* Develop and enhance GUI components for an existing application
+* Implement using best\\-in\\-class software development methodologies as well as test all modification requests
+* Handle complex problems that may arise during solution implementation
+
+**Requirements:**
+
+* **10\\+ years' experience as a Java Developer**
+* **Angular developer with experience in Node JS environment using Eclipse IDE and GIT**
+* **Working knowledge of Typescript/JavaScript, HTML, CSS, Bootstrap, JQuery**
+* **Experience working in an Agile environment with changing priorities and tight schedules, utilizing ALM tools**
+* **US Citizenship**
+
+**Additional Skills:**
+
+* **Java/Spring framework, MySQL, and Apache Tomcat a plus**
+
+**Full Time Employee benefits:**
+
+* **Health care benefits**
+* **401(k) with company match**
+* **Holiday pay**
+* **Paid time off (inclusive of a volunteer day)**
+* **Tuition Reimbursement upon approval**
+
+**DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of employees assigned to this position. Therefore, employees assigned may be required to perform additional job tasks required by the manager.**
+
+**We are proud to be an EOE Minorities/Females/Protected Veterans/Disabled employer. The Company’s status is a VEVRAA Federal Contractor. Request Priority Protected Veteran Referrals. We maintain a drug\\-free workplace and perform pre\\-employment substance abuse testing.**","","https://www.indeed.com/cmp/Iconectiv,-Llc.","","","","","",""
+"in-403beb3214daae72","indeed","https://www.indeed.com/viewjob?jk=403beb3214daae72","https://global-hracuity.icims.com/jobs/1277/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Sr. Backend Engineeer (.NET)","HR ACUITY LLC","Florham Park, NJ, US","2024-12-05","fulltime","direct_data","yearly",42000.0,71000.0,"USD",True,"","","","","Overview:
+
+Join our team as a Sr. Backend Engineer, where you will have the opportunity to work on cutting\\-edge technology, driving the development of robust and scalable backend systems. Your expertise will help shape the backbone of our technical infrastructure, ensuring high perfomance and responsiveness of our suite of products. **Who we are and what is our mission?**
+HR Acuity helps companies deal with issues consistently, equitably, and transparently with state\\-of\\-the\\-art case management software. Our mission is to make work better, more equitable and safer for organizations and their employees. We are dedicated to continually raising the bar for employee relations by providing the consistency, compliance, and capabilities organizations need to protect their reputation and build a better workplace. **Why work here?**
+We are a fast\\-paced, high\\-growth, and innovative company. This is an **“All\\-in Zone.”** Everyone from our woman\\-owned CEO and founder to each individual team member embraces our \\#All\\-in mindset. We expect everyone to be fully engaged and to bring their best selves to work every day. We are passionate about our mission and our culture, and we expect everyone to be a part of it. **Fair\\-Culture Warning:**
+We are committed to creating an inclusive and diverse workplace. We value different perspectives and backgrounds and strive to create an environment where everyone feels respected and valued. We are committed to creating an environment where everyone can be their authentic selves.
+The Opportunity:
+* Apply established coding standards, architectural patterns, SOLID principles, and unit/behavioral test automation practices to directly contribute to product development
+* Balance development new user\\-facing and system\\-level .Net based features/ functionality with support of existing functionality
+* Build reusable code and libraries for future use
+* Translate Product requirements into scalable and performant technical designs
+* Optimize services for maximum speed and scalability
+* Participate in agile development processes, including sprint planning, daily stand\\-ups, and retrospectives
+* Collaborate with other team members and stakeholders
+* Work with development and product teams to understand, estimate, and refine requirements for product features and stories
+
+Perform code reviews and ensure adherence to best practices and coding standards  
+* 
+
+
+Qualifications:
+* 3\\-5 years of engineering experience
+* 2\\+ years of experience working on large\\-scale distributed event\\-based SaaS applications
+* World class design and programming skills with deep expertise in .NET preferred
+* Strong proficiency in one or more additional languages with a preference for Go and Typescript; experience with React or other modern UI frameworks a plus
+* Experience working closely with DevOps to deliver software through CI/CD pipelines into containerized hosting environments, ideally on Kubernetes
+* Tangible experience with Kafka or other event streaming platform with an understanding of the benefits and challenges of asynchronously integrating services with these platforms
+* Extensive experience with relational, nosql, and other datastores with the ability to talk in depth about when and why to choose one vs the other
+* Experience in building cloud native solutions using Azure, AWS, or another cloud provider
+* Experience with automating the testing at all levels of the stack (unit tests, integration tests, regression tests, etc.)
+* Comfort using Feature Flags to incrementally enable functionality across the customer base
+* Appreciation for the operational aspects of SaaS engineering, including experience with incident management and using SLOs and other system observability techniques to proactively understand system health
+* Experience decomposing monolithic applications and databases into microservices
+* Strong troubleshooting and performance tuning skills
+* Adept at managing their time with clear, organized thinking
+* Excellent teamwork and coordination skills with the ability to drive consensus and create clarity from ambiguity
+* BS in Computer Science or related technical field experience preferred","","https://www.indeed.com/cmp/HR-Acuity-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0d7d58a958c83a956fefca5af0c55d8c","http://www.hracuity.com","Florham Park","51 to 200","$5M to $25M (USD)",""
+"in-4794050e86172793","indeed","https://www.indeed.com/viewjob?jk=4794050e86172793","https://global-hracuity.icims.com/jobs/1280/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Sr. Software Engineer","HR ACUITY LLC","Florham Park, NJ, US","2024-12-05","fulltime","direct_data","yearly",47000.0,65500.0,"USD",True,"","","","","Overview:
+
+As a Sr. Software Engineer at HR Acuity, you will have a huge impact on the design and operations of our software and the experience of our customers. We are aggressively modernizing our software stack and are looking for an experienced SaaS engineer to help us chart that path forward. You will work closely with Product Managers; Engineering Managers; Designers; UI, Quality, DevOps, and other Software Engineers to continuously deliver value to our customers.  
+
+The ideal candidate will be comfortable coordinating with technical team members to push forward the maturity and reliability of our products while managing risks and delivering team commitments on time. They will be excited about continuously shipping new features and capabilities that delight our customers and end users. **Who we are and what is our mission?**
+HR Acuity helps companies deal with issues consistently, equitably, and transparently with state\\-of\\-the\\-art case management software. Our mission is to make work better, more equitable and safer for organizations and their employees. We are dedicated to continually raising the bar for employee relations by providing the consistency, compliance, and capabilities organizations need to protect their reputation and build a better workplace. **Why work here?**
+We are a fast\\-paced, high\\-growth, and innovative company. This is an **“All\\-in Zone.”** Everyone from our woman\\-owned CEO and founder to each individual team member embraces our \\#All\\-in mindset. We expect everyone to be fully engaged and to bring their best selves to work every day. We are passionate about our mission and our culture, and we expect everyone to be a part of it. **Fair\\-Culture Warning:**
+We are committed to creating an inclusive and diverse workplace. We value different perspectives and backgrounds and strive to create an environment where everyone feels respected and valued. We are committed to creating an environment where everyone can be their authentic selves.
+Click here to learn more about our values and benefits.  
+
+
+The Opportunity:
+* Hold yourself and your team accountable to a high standard of delivery and quality.
+* Collaborate with other engineers.
+* Aligning disparate viewpoints and charting a unified path forward.
+* Effectively scope work and decompose initiatives into discrete deliverables.
+* Balance competing priorities to ensure we effectively ship new features while resolving defects and managing technical debt.
+* Mentor other engineers and guide them towards more effective technical solutions.
+
+
+Qualifications:
+**Who you are:*** You’re an experienced SaaS Engineer who understands that in the world of cloud\\-based services, building software only gets you to the starting line. Shipping, operating, and supporting those services is the race.
+* You have more than a few years of experience in a fast\\-paced development environment and are passionate about the art and science behind building fast and elegant SaaS applications.
+
+ **Skills/Experience**  
+
+* Min 5 years of engineering experience.
+* 5 years of experience working on large\\-scale distributed event\\-based SaaS applications.
+* World class design and programming skills with deep expertise in .NET preferred.
+* Experience with React is preferred. Other modern UI frameworks a plus.
+* Strong proficiency in Typescript.
+* Experience developing Microservices.
+* Experience working closely with DevOps to deliver software through CI/CD pipelines into containerized hosting environments, ideally on Kubernetes.
+* Experience decomposing monolithic applications and databases into microservices.
+* Tangible experience with Kafka or other event streaming platform with an understanding of the benefits and challenges of asynchronously integrating services with these platforms.
+* Extensive experience with relational such as SQL Server, nosql, and other datastores with the ability to talk in depth about when and why to choose one vs the other.
+* Experience with Entity Framework or Dapper.
+* Experience in building cloud native solutions using Azure, AWS, or another cloud provider.
+* Experience with automating the testing all levels of the stack (unit tests, integration tests, regression tests, etc.)
+* Comfort using Feature Flags to incrementally enable functionality across the customer base.
+* Appreciation for the operational aspects of SaaS engineering, including experience with incident management and using SLOs and other system observability techniques to proactively understand system health.
+* Strong troubleshooting and performance tuning skills.
+* Excellent teamwork and coordination skills with the ability to drive consensus and create clarity from ambiguity.
+* BS in Computer Science or related technical field experience.","","https://www.indeed.com/cmp/HR-Acuity-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0d7d58a958c83a956fefca5af0c55d8c","http://www.hracuity.com","Florham Park","51 to 200","$5M to $25M (USD)",""
+"in-5bf0862be10b2161","indeed","https://www.indeed.com/viewjob?jk=5bf0862be10b2161","https://jobs.intel.com/job/-/-/599/74019674912","Graduate Intern - Software Engineer","Intel Corporation","Bernardsville, NJ, US","2024-12-04","fulltime","direct_data","yearly",63000.0,166000.0,"USD",False,"","","","","**Job Description**
+-------------------
+
+  
+
+Job Description**Do Something Wonderful!**
+
+Intel put the Silicon in Silicon Valley. No one else is this obsessed with engineering a brighter future. Every day, we create world changing technology that enriches the lives of every person on earth. So, if you have a big idea, let’s do something wonderful together. Join us, because at Intel, we are building a better tomorrow. Want to learn more? Visit our YouTube Channel or the links below!
+
+* Life at Intel
+* Diversity at Intel
+
+
+Reporting to the Manager of Software Engineering is responsible for wearing multiple hats from viewing the architectural approach with a critical eye, making implementation decisions, and proactively communicating this with the team.  
+
+  
+
+Designs, implements, and maintains tools and processes for the continuous integration, delivery, and deployment of software. Will work with developers, testers, and system administrators to ensure the entire software development life cycle is efficient, smooth, and error\\-free.
+
+
+The successful candidate will possess the following attributes:
+
+* Leadership
+* Problem Solving
+* Decision Making
+* Communication
+* Multi\\-tasking
+* Critical Thinking skills
+
+
+This is a full\\-time, Hybrid, 3\\-month internship, targeting a start date of Winter or spring term, 2025\\. Intern must be able to be **on\\-site in Parsippany, New Jersey weekly.**
+
+\\#DesignEnablement
+
+**Qualifications**
+------------------
+
+  
+
+Qualifications**What we need to see** (Minimum Qualifications):
+
+* Must have completed BS degree and be Pursuing a Masters Degree or PHD in computer science or related STEM technical field.
+* 1\\+ years experience developing tools, libraries, and infrastructure for data preprocessing, model training/finetuning, and deployment of LLMs.
+
+ **Preferred Qualifications:**
+
+* Pursuing Master's or PhD in Computer science or related technical fields.
+* 2\\+ years experience developing tools, libraries, and infrastructure for data preprocessing, model training/finetuning, and deployment of LLMs in research and production environments.
+
+**Technology stack:**
+
+* Cloud Platforms: AWS, Azure, GCP
+* Programming Languages: Python, Node.js, Go, Ruby
+* APIs and Integration: OpenAPI, FastAPI, Swagger, Flask, REST
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* ML Frameworks: PyTorch, Scikit\\-learn, Keras
+* Development and Deployment: Jenkins, Docker, Kubernetes
+* Monitoring and Logging: Prometheus, Grafana, ELK Stack.
+* Version Control: Git, GitHub, GitLab
+* Architecture Design and Modeling: Microsoft Visio, Drawio.
+* Collaboration and Project Management: JIRA, Confluence, Trello
+
+
+Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+
+**Inside this Business Group**
+------------------------------
+
+  
+
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state\\-of\\-the\\-art \\- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology Development and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth.  
+
+**Posting Statement**
+---------------------
+
+  
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.  
+
+**Benefits**
+------------
+
+  
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.  
+
+  
+
+Annual Salary Range for jobs which could be performed in the US $63,000\\.00\\-$166,000\\.00  
+
+* Salary range dependent on a number of factors including location and experience
+
+**Working Model**
+-----------------
+
+  
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on\\-site at their assigned Intel site and off\\-site. **\\* Job posting details (such as work model, location or time type) are subject to change...**","","https://www.indeed.com/cmp/Intel-Corporation","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a458bf4fc3f3de2f1a11c8236832b909","https://jobs.intel.com/","Santa Clara, CA","10,000+","more than $10B (USD)","Intel put the Silicon in Silicon Valley, and today our technology remains at the core of the most exciting, life-changing innovations on the planet."
+"in-57b0c4c611bf6841","indeed","https://www.indeed.com/viewjob?jk=57b0c4c611bf6841","https://www.amazon.jobs/jobs/2848097/software-dev-engineer-brand-shopping-experience?cmpid=DA_INAD200785B","Software Dev Engineer, Brand Shopping Experience","Amazon.com","New York, NY, US","2024-12-04","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+
+Brand Shopping Experience (BSX) team develops the shopping experiences to help advertisers of all sizes improve their brand performance on Amazon via Brand Stores.
+  
+  
+
+We are seeking a seasoned software engineer who has experience building data processing systems for Peta byte scale systems. They will work on simplifying complex existing systems, building real time data analytics, APIs, and reporting systems. Having robust analytics systems that show the impact of brand stores to advertisers is mission critical for our team. This is a highly collaborative role working with Product Managers, TPMs, SDEs and other leaders across the org.
+  
+  
+
+The ideal candidate will have strong computer science and data engineering background. They should have experience building and maintaining large scale data processing systems and highly available APIs. They should be able to work across multiple teams and systems.
+  
+  
+
+Key job responsibilities
+  
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+* Experience building data processing systems.
+
+
+A day in the life
+  
+https://youtu.be/FVyzfO\\_VbYI
+  
+  
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+  
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company."
+"in-19dcac20ca389be8","indeed","https://www.indeed.com/viewjob?jk=19dcac20ca389be8","https://www.amazon.jobs/jobs/2848128/software-development-engineer-amazon-live--asv--oo?cmpid=DA_INAD200785B","Software Development Engineer, Amazon Live , ASV - O&O","Amazon.com","New York, NY, US","2024-11-11","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","* 3\\+ years of non\\-internship professional software development experience
+* 3\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+
+Amazon Live is a new and rapidly growing shopping experience that leverages the interactivity of live streams to help customers discover cool new products and content creators. Our mission is to revolutionize the way customers shop and discover products on Amazon. Check us out on: https://www.amazon.com/live
+  
+  
+
+As a Software Engineer on Amazon Live Creator and Tools Team, you will specialize in building highly scalable services that enable the interactive shopping and live streaming experience on Amazon Live portal using Live creator mobile app. You will bring your expertise and ideas in the areas of distributed computing, scalable architecture, performance and metrics reporting to help our fast\\-paced business grow and evolve.
+  
+  
+
+If you are interested in building an entertainment product, enjoy a fun and collaborative working environment, and want to work on a strategic new initiative, join our team today!
+  
+  
+
+Key job responsibilities
+  
+Design and implement large\\-scale backend infrastructure and API.
+  
+  
+
+Architect and provide guidance on building End\\-to\\-End system optimized for speed and scale, which also includes, designing and implementing end\\-to\\-end machine learning pipelines.
+  
+  
+
+Create simple and elegant solutions to support Amazonlive on desktop, mobile devices and TV, in collaboration with Front\\-end engineers, Product Managers, and other Software Engineers.
+  
+  
+
+A day in the life
+  
+You will work on the backend of Amazon Live Creator mobile App building features that enable video ingestion, stream management and categorization in order to better serve our Amazon viewers with quality streams. You will bring your expertise and ideas in the areas of distributed computing, scalable architecture, UI and mobile design, performance and metrics reporting to help our fast\\-paced business grow and evolve.
+  
+  
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+  
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company."
+"in-1aca5db5df6a317e","indeed","https://www.indeed.com/viewjob?jk=1aca5db5df6a317e","https://www.amazon.jobs/jobs/2848079/software-development-engineer-amazon-q-business-chat?cmpid=DA_INAD200785B","Software Development Engineer, Amazon Q Business, Chat","Amazon Web Services","New York, NY, US","2024-10-16","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+
+Amazon Q Business is revolutionizing workplace productivity through innovative generative AI technology. As a cutting\\-edge AI\\-powered assistant, it transforms how enterprises operate by empowering employees to be more creative, data\\-driven, efficient, prepared, and productive. Unlike traditional AI assistants, Amazon Q Business leverages advanced artificial intelligence to answer questions, provide summaries, generate content, and securely complete tasks based on enterprise data.
+  
+  
+
+The candidate will join the Retrieval team, responsible for obtaining the most relevant documents relevant to answer the user's queries.
+  
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+  
+  
+
+About the team
+  
+Diverse Experiences
+  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+  
+  
+
+About AWS
+  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+  
+  
+
+Inclusive Team Culture
+  
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+  
+  
+
+Work/Life Balance
+  
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+
+Mentorship \\& Career Growth
+  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.
+  
+  
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+  
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. "

@@ -1,0 +1,2142 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"zr-nPTswECCeuanvvvAsJblLg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=nPTswECCeuanvvvAsJblLg","","Forward Deployed Software Engineer","Privy","New York, NY, USA","2024-12-07","","direct_data","yearly",150000.0,200000.0,"USD","","","","organic","","At Privy, we build the authentication and cryptographic key management tools that power onboarding for hundreds of companies built on blockchain infrastructure and distributed systems. Our mission is to make privacy and user ownership the default online.
+   
+
+  
+
+ We're looking for an exceptional Fullstack Software Engineer to join our team, and be the primary technical owner for Privy's business and go\\-to\\-market (GTM) operations. In this role, you will combine technical expertise with a deep understanding of customer and business objectives to architect, develop, and deploy software features that address customers' needs and evolve the capabilities of Privy's core products.
+   
+
+  
+
+ Customer obsession is a core part of Privy's culture. You'll work closely with fellow engineers, product, and business teams to ensure Privy's customers achieve their desired outcomes and are delighted by our products.
+   
+
+  
+
+**In this role, you will...** 
+  
+
+
+
+
+* Be a primary technical owner for Privy's customers including OpenSea, Blackbird, Zora, Friend.Tech, and many more!
+* Work directly with customers to understand their technical and operational objectives, scope requirements, and prototype and propose software solutions
+* Design, code, and launch features that improve and innovate on Privy's core product using tools like
+ **Typescript** 
+ ,
+ **React** 
+ , and
+ **NextJS** 
+ , and fully owning end\\-to\\-end development
+* Drive product deployments, including configuration, testing, and troubleshooting
+* Champion customer success, ensuring customer feedback and pain points are understood, prioritized, and pursued by the team
+* Dive deep into customer codebases to understand product usage, friction points, and uncover opportunities for improvements
+* Partner with internal stakeholders to continuously align product roadmap and strategy with customer needs and objectives
+* **Play a pivotal role in shaping Privy's product and offerings as an early member of the engineering team!**
+
+
+  
+
+**You may be a fit for this role if you have...** 
+  
+
+* Bachelor's degree in Computer Science or equivalent work experience
+* Excellent coding skills and technical acumen
+* Superb problem solving skills and ability to understand the product and business side of development (in other words, you see the big picture!)
+* Strong production software experience
+* Experience building and owning features end\\-to\\-end
+* Excellent ability to communicate and collaborate with both technical and non\\-technical stakeholders
+* A passion for handling ambiguity and picking up new technologies, frameworks, and tools
+* An entrepreneurial and high ownership mindset
+* A desire for impact and a deep sense of urgency for your work
+
+
+  
+
+**Bonus points if you have...** 
+  
+
+* Written open\\-source developer tooling
+* Published your work (code, presentations, papers, blog posts, etc.)
+* Experience building web3 applications
+
+
+  
+
+**Engineering at Privy** 
+  
+
+  
+
+ Engineering at Privy is not just about writing world\\-class code. We create software that turns complex technical systems into delightful developer tools. We assemble tried\\-and\\-true primitives into intuitive, responsive APIs and beautiful interfaces. We believe in open\\-source work and transparency with our teammates and users. We encourage each other to think big, run experiments and follow our curiosity so we can build better tooling that lets developers shine and empowers their users.
+   
+
+  
+
+ Privy is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees, regardless of background, identity, or status.","","","","","","","",""
+"zr-s4aAsdT9j6Ov3pA8lmwmDA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=s4aAsdT9j6Ov3pA8lmwmDA","","Sr. Software Engineer","HR Acuity","Florham Park, NJ, USA","2024-12-07","","direct_data","yearly",47000.0,65500.0,"USD","","","","organic","","As a Sr. Software Engineer at HR Acuity, you will have a huge impact on the design and operations of our software and the experience of our customers. We are aggressively modernizing our software stack and are looking for an experienced SaaS engineer to help us chart that path forward. You will work closely with Product Managers; Engineering Managers; Designers;  UI, Quality, DevOps, and other Software Engineers to continuously deliver value to our customers. 
+ 
+
+
+
+  
+ 
+
+
+
+ The ideal candidate will be comfortable coordinating with technical team members to push forward the maturity and reliability of our products while managing risks and delivering team commitments on time. They will be excited about continuously shipping new features and capabilities that delight our customers and end users. 
+ 
+
+
+
+  
+ 
+
+
+
+**Who we are and what is our mission?** 
+  
+ 
+
+
+
+ HR Acuity helps companies deal with issues consistently, equitably, and transparently with state\\-of\\-the\\-art case management software. Our mission is to make work better, more equitable and safer for organizations and their employees. We are dedicated to continually raising the bar for employee relations by providing the consistency, compliance, and capabilities organizations need to protect their reputation and build a better workplace. 
+ 
+
+
+
+  
+ 
+
+
+
+**Why work here?** 
+  
+ 
+
+
+
+ We are a fast\\-paced, high\\-growth, and innovative company.  This is an
+ **“All\\-in Zone.”** 
+   Everyone from our woman\\-owned CEO and founder to each individual team member embraces our \\#All\\-in mindset.  We expect everyone to be fully engaged and to bring their best selves to work every day. We are passionate about our mission and our culture, and we expect everyone to be a part of it.  
+ 
+
+
+
+
+
+
+
+
+**Fair\\-Culture Warning:** 
+  
+ 
+
+
+
+ We are committed to creating an inclusive and diverse workplace. We value different perspectives and backgrounds and strive to create an environment where everyone feels respected and valued. We are committed to creating an environment where everyone can be their authentic selves.  
+ 
+
+
+
+ Click here to learn more about our values and benefits. 
+ 
+
+
+
+  
+ 
+
+
+  
+
+* Hold yourself and your team accountable to a high standard of delivery and quality.
+* Collaborate with other engineers.
+* Aligning disparate viewpoints and charting a unified path forward.
+* Effectively scope work and decompose initiatives into discrete deliverables.
+* Balance competing priorities to ensure we effectively ship new features while resolving defects and managing technical debt.
+* Mentor other engineers and guide them towards more effective technical solutions.
+
+
+  
+
+
+**Who you are:** 
+
+
+
+* You’re an experienced SaaS Engineer who understands that in the world of cloud\\-based services, building software only gets you to the starting line. Shipping, operating, and supporting those services is the race.
+* You have more than a few years of experience in a fast\\-paced development environment and are passionate about the art and science behind building fast and elegant SaaS applications.
+
+
+
+  
+ 
+
+
+
+**Skills/Experience** 
+
+
+
+
+
+
+
+
+* Min 5 years of engineering experience.
+* 5 years of experience working on large\\-scale distributed event\\-based SaaS applications.
+* World class design and programming skills with deep expertise in .NET preferred.
+* Experience with React is preferred. Other modern UI frameworks a plus.
+* Strong proficiency in Typescript.
+* Experience developing Microservices.
+* Experience working closely with DevOps to deliver software through CI/CD pipelines into containerized hosting environments, ideally on Kubernetes.
+* Experience decomposing monolithic applications and databases into microservices.
+* Tangible experience with Kafka or other event streaming platform with an understanding of the benefits and challenges of asynchronously integrating services with these platforms.
+* Extensive experience with relational such as SQL Server, nosql, and other datastores with the ability to talk in depth about when and why to choose one vs the other.
+* Experience with Entity Framework or Dapper.
+* Experience in building cloud native solutions using Azure, AWS, or another cloud provider.
+* Experience with automating the testing all levels of the stack (unit tests, integration tests, regression tests, etc.)
+* Comfort using Feature Flags to incrementally enable functionality across the customer base.
+* Appreciation for the operational aspects of SaaS engineering, including experience with incident management and using SLOs and other system observability techniques to proactively understand system health.
+* Strong troubleshooting and performance tuning skills.
+* Excellent teamwork and coordination skills with the ability to drive consensus and create clarity from ambiguity.
+* BS in Computer Science or related technical field experience.","","","","","","","",""
+"zr-MWaHN5iq2Udn3S4Kc-68Ew","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=MWaHN5iq2Udn3S4Kc-68Ew","","Software QA Engineer","Asta CRS Inc.","New York, NY, USA","2024-12-06","contract","direct_data","hourly",28.0,30.0,"USD","","","","subs_fulfillment","","We are seeking a Software QA Engineer to become an integral part of our team! You will develop and execute software test plans in order to identify software issues.
+ 
+
+
+
+**Responsibilities:** 
+
+
+
+* Devise and implement test strategies that adequately assess all software aspects
+* Investigate and recreate reported defects
+* Work with other engineers to troubleshoot and resolve coding issues
+* Track and document all testing defects and resolutions
+* Participate in the design and development for test automation and support
+
+
+
+**Qualifications:** 
+
+
+
+* Previous experience in software development, quality assurance, or other related fields
+* Knowledge of Java, Python, or other programming languages
+* Familiarity with relational databases such as MySQL, Oracle, and SQL Server
+* Strong root\\-cause analysis skills
+* Deadline and detail\\-oriented
+
+
+
+
+
+### About Asta CRS Inc.:
+
+
+
+
+ ASTA Corporate Resource Solutions Inc is one of the Fastest Growing IT Companies in Northern America and the DC Metro Area with its headquarters in Ashburn, Virginia. ASTA CRS is an Information Technology Provider delivering superior quality software development, consulting, and staffing solutions to our client partners. We are 19 Years in this Industry.
+   
+
+  
+
+ ASTA CRS services are uniquely positioned to support clients in achieving profound efficiencies and relentlessly delivering results. ASTA CRS is a long\\-time and trusted resource for its clients and partners.
+   
+
+  
+
+ Asta CRS, Inc. is an Equal Opportunity Employer M/F/V/D. ASTA CRS is proud to state that we are enrolled with the USCIS for the E\\-Verification Program.","","","","","","","",""
+"zr-tri8wHkjO9sBGRobbBYp_w","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=tri8wHkjO9sBGRobbBYp_w","","Japanese Bilingual Support Engineer #11700","Actus Consulting Group","Manhattan, NY, USA","2024-12-06","fulltime","direct_data","hourly",30.0,50.0,"USD","","","","subs_fulfillment","","Japanese IT company seeks a Support Engineer.
+   
+
+  
+
+ Type: Contract/Temp to hire/Permanent
+   
+
+ Title: Support Engineer
+   
+
+ Location: New York, NY (Hybrid)
+   
+
+ Term: 6 – 12months
+   
+
+  
+
+ This position required Business\\-Level Japanese skill.
+   
+
+  
+
+ 【Role Description】
+   
+
+ This is a contract hybrid role as a Support Engineer. The Support Engineer will be responsible for troubleshooting technical issues, providing technical and customer support, and ensuring the smooth operation of various operating systems. Required to commute end\\-client(s) location a few days a week.
+   
+
+  
+
+ •Configure internal\\-office server, PC, network, telephony hardware, and software for customers.
+   
+
+ •Perform on\\-site installation of server, PC, network, telephony hardware, and software for customers.
+   
+
+ •Perform troubleshooting for remote \\& on\\-site server, PC, network, telephony hardware, and software for customers.
+   
+
+ •Provide support for server, PC, network, telephony hardware, and software administration to customers.
+   
+
+ •Perform installation and troubleshooting at site. (Required business trip.)
+   
+
+ •Compose and issue work records and project records of installation and configuration for each customer.
+   
+
+ •Report and archive actual solution and countermeasure of troubleshooting for future reference.
+   
+
+ •Report the status of each project and troubleshooting progress to your team/project leader.
+   
+
+ •Perform product research and market trend analysis as requested by your team leader.
+   
+
+ •Draft proposal and/or quotation for customers as requested by your team leader.
+   
+
+ •Control projects, vendors and sub\\-contractors for delivery and completion of projects on time.
+   
+
+  
+
+ 【Qualifications】
+   
+
+ •English / Japanese(Required)\\*読み書きよりも会話を重視。話すのは敬語までは期待しませんが、相手の言っていることを理解する能力は特に必要です。
+   
+
+ •3\\+ Years Work experience as IT Support Engineer.
+   
+
+ •BS Computer Science or relevant fields. Or relevant certificate.
+   
+
+ •Communication skills with customers, vender/carrier and company staff.
+   
+
+ •Documentation skills.
+   
+
+ •Valid driver license.
+   
+
+ •Must be able to commute to End\\-Client(s) Office a few days a week.
+   
+
+  
+
+ Maintain the following latest standards of technologies to provide appropriate IT\\-solutions which meets the customer’s requirement.
+   
+
+ •Microsoft, Citirx, VMware and other major software vendor's product.
+   
+
+ •Cisco, Fortinet, Palo Alto and other major network vendor's devices.
+   
+
+ •Unix/Linux, Windows server operation and maintenance.
+   
+
+ •Security software and solutions for servers and PCs.
+   
+
+ •Local and Wide Area Network technologies.
+   
+
+ •Virtualization and storage technologies.
+   
+
+ •Micorosoft365, Active Directory, Azure AD, Exchange.
+   
+
+ •Video conference tools.","","","","","","","",""
+"zr-d3HUzlksYDyU6DtEoP9x0g","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=d3HUzlksYDyU6DtEoP9x0g","","Senior Software Engineer, Back End (Java/Scala/Go)","Capital One","New York, NY, USA","2024-12-06","","","","","","","","","","agency","","Senior Software Engineer, Back End (Java/Scala/Go)
+ 
+
+
+
+
+
+
+
+
+ Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast\\-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs.  We are seeking
+ **Back End Software Engineers** 
+
+ who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+ 
+
+
+
+
+
+
+
+****What You’ll Do:****
+
+
+
+* Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full\\-stack development tools and technologies
+* Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal \\& external technology communities, mentoring other members of the engineering community
+* Collaborate with digital product managers, and deliver robust cloud\\-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+* Utilize programming languages like
+ **Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services including Flink and DynamoDB**
+
+
+
+  
+
+  
+
+  
+ 
+
+
+
+**Team Info:** 
+
+
+
+
+ We are building a platform to enable engineers and data analysts to quickly deploy real time streaming data transformation jobs within the Capital One data ecosystem. This will remove the need for teams to build and maintain their own streaming infrastructure, monitoring, alerts, or data governance saving weeks of time for engineering teams and enabling data analysts without a tech team to access a fully automated transformation solution.
+ 
+
+
+
+
+
+
+
+ As the need for more real time data processing is rising, we are enabling teams to quickly deploy production ready streaming data transformation jobs to production. We follow an agile, YBYO (You Build, You Own) approach to software development, delivery, and support. As a Senior Software engineer you will own and be responsible for the delivery of software solutions required by the streaming transforms platform through various phases of the SDLC (Software Development LifeCycle), from requirements gathering and interacting with stakeholders (Product, partner teams) to reviewing technical feasibility and designing the solution/fix to implementation, testing (unit, integration, regression, e2e, etc..), deployment, and support.
+ 
+
+
+
+
+
+
+
+****Basic Qualifications:****
+
+
+
+* Bachelor’s Degree
+* At least 4 years of professional software engineering experience (Internship experience does not apply)
+
+
+
+
+
+
+
+****Preferred Qualifications:****
+
+
+
+* 5\\+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js
+* 1\\+ years of experience with AWS, GCP, Azure, or another cloud service
+* 3\\+ years of experience in open source frameworks
+* 2\\+ years of experience in Agile practices
+
+
+
+
+
+
+
+
+
+
+
+***At this time, Capital One will not sponsor a new applicant for employment authorization for this position.***
+
+
+
+
+
+
+
+
+
+
+
+
+ The minimum and maximum full\\-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part\\-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+ 
+
+
+
+
+
+
+ New York City (Hybrid On\\-Site): $165,100 \\- $188,500 for Senior Software Engineer
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+ 
+
+
+
+
+
+
+ This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+ 
+
+
+
+
+
+
+
+
+ Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well\\-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part\\-time status, exempt or non\\-exempt status, and management level.
+ 
+
+
+
+
+
+
+
+
+
+
+ This role is expected to accept applications for a minimum of 5 business days.
+ 
+
+
+
+
+
+
+
+ No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug\\-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23\\-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901\\-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+ 
+
+
+
+
+
+
+
+
+ If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1\\-800\\-304\\-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+ 
+
+
+
+
+
+
+
+ For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+ 
+
+
+
+
+
+
+
+ Capital One does not provide, endorse nor guarantee and is not liable for third\\-party products, services, educational tools or other information available through this site.
+ 
+
+
+
+
+
+
+
+ Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).","","","","","","","",""
+"zr-glXMRkbFdki7kR5GmibLTg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=glXMRkbFdki7kR5GmibLTg","","Software Engineering Manager - Java / Spring / Angular / AWS","Search Solutions","Norwalk, CT, USA","2024-12-06","fulltime","direct_data","yearly",160000.0,180000.0,"USD","","","","subs_fulfillment","","The Software Engineering Manager will support the line of business operations by architecting, coding, and collaborating to produce full stack solutions using modern frameworks and technologies, managing the practice in accordance with industry standards of software engineering.
+ 
+
+
+
+ This is a remote opportunity, although the candidate must be located in the USA, the work hours will be Eastern Standard Time Zone.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* Manage multiple Product Engineering projects and engineering staff across backend and frontend
+   
+
+ practices.
+* Architect, design, and guide the team developing and deploying scalable, efficient, performant, and
+   
+
+ reusable code to provide frontend UIs and backend services to grow and scale our business.
+* Perform ad hoc analysis, troubleshooting, and triaging to resolve issues with deployed systems.
+* Maintain documentation and source control.
+* Contribute and review code as part of a collaborative team, building critical systems for our clients.
+* Supervise product and automation engineers in a cross functional team, managing their priorities
+   
+
+ and ensuring that their code adheres to industry and company best practices.
+* Manage and define tasks for yourself and your team(s) in an agile environment.
+* Mentor and provide direction to other team members.
+* Architect and implement solutions in collaboration with engineering leadership.
+* Partner with the Product team to represent engineering in client meetings.
+* Own the problem and scope solutions that line up with business objectives.
+* Provide rapid response to the needs of the team.
+
+
+
+**Skills and Experience** 
+
+
+
+* Expertise in backend (Java) and frontend (Angular) languages and frameworks:
+   
+
+ Spring boot micro\\-service, Spring Cloud, API development, API security, Web Services
+   
+
+ Integration using SOAP and REST, HTML5, JavaScript, TypeScript, Angular.
+* Experience with Web and Application Servers, Tomcat Preferred.
+* Experience with relational databases such as MySQL, AWS RDS, Aurora/ Oracle/Postgres.
+* Well\\-versed in modern software development technologies, practices, and patterns.
+* At least 3 years of experience managing engineers.
+* Familiarity with AWS or other cloud providers.
+* Demonstrated ability to architect, problem solve, test, and develop solutions independently.
+* Experience in setting up application monitoring using APM tools, Datadog knowledge preferred.
+* Familiarity with containerization tools like Docker, Kubernetes.
+* Familiarity with Test Automation.
+* Ability to set up team metrics.
+
+
+
+ Expected Outcomes (first 12 months)
+ 
+
+
+* Keep up with daily needs of our operational team(s) while becoming a domain SME.
+* Write and review code to maintain and support new and existing products and services.
+* Write and review stories, run agile ceremonies, and act as an owner for your product(s) and Modules.
+* Supervise engineers at all levels of experience, building out the team as needed.
+* Manage cross functional team(s) as we modernize and scale our technology platforms.
+* Be active in the Engineering community, performing code reviews, and sharing
+   
+
+ knowledge.","","","","","","","",""
+"zr-JuA7XvAOjyDRrEhJ_y7Q8g","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=JuA7XvAOjyDRrEhJ_y7Q8g","","Manufacturing Engineer","Nationwide Technical Resources Corp","Farmingdale, NY, USA","2024-12-06","fulltime","direct_data","yearly",85000.0,115000.0,"USD","","","","subs_fulfillment","","Seeking a Manufacturing Engineer for a premier electronics manufacturing company serving the defense industry.
+ 
+
+
+
+ The ideal candidate has 7 \\- 10 years’ experience in electronics manufacturing or similar. Related industry in military, defense, or space is highly preferred. You are a problem solver familiar with root cause analysis and project management experience.
+ 
+
+
+
+**What you will do:** 
+
+
+
+
+ Serve as liaison between the creative engineering professionals and the functional manufacturing organizations. Will work in the conception, design, development, implementation and maintenance of manufacturing methods and processes.
+ 
+
+
+* Determine, revise and review economic methods, operation sequences and tooling
+* Develops and evaluates manufacturing processes by designing and conducting research programs applying knowledge of product design, fabrication, assembly, tooling and materials
+* Improves manufacturing efficiency by analyzing and planning work flow, space requirements and equipment layout
+* Develop vital assembly guides, operational manuals and illustrations for manufacturing processes utilizing computer aided design and manufacturing software applications in the effective execution of this activity.
+* Support team of Engineers and Designers with valuable guidance in product operations
+* Provide manufacturing decision\\-making information by calculating production labor, and material costs; reviewing production schedules; estimating future requirements
+
+
+
+**Requirements** 
+
+
+
+* Bachelor’s degree in Mechanical/Electrical Engineering or equivalent
+* RF \\& microwave frequency products, sub\\-assemblies, modules, PC boards and wire bonding experience required
+* Knowledge of advanced manufacturing methods in test, assembly and fabrication required
+* Experience in working with chip and wire processes preferred
+* Interpersonal communication skills using professional and courteous conduct
+* Must be able to work in a clean\\-room environment
+* Must be a US Citizen or lawful resident of the US
+
+
+
+
+
+### About Nationwide Technical Resources Corp:
+
+
+
+
+ Our client is a reputable manufacturing company offering a permanent opportunity, competitive salary and great benefits.","","","","","","","",""
+"zr-R19Q_phttJGVY8B7RHx4kg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=R19Q_phttJGVY8B7RHx4kg","","Engineer or Scientist","Naval Sea Systems Command","Keyport, NJ, USA","2024-12-06","","","","","","","","","","direct","","**Summary** 
+  
+
+  
+
+ You will serve as a Professional Engineer or Scientist as the Deputy Division Head in the Digital Transformation Division of NAVUNSEAWARCENDIV KEYPORT WA.
+   
+
+  
+
+ This position is part of the Warfare Centers Personnel Demonstration Project. The ND\\-05 pay band encompasses positions equivalent to GS\\-14 and GS\\-15\\. This position is Capped at the GS\\-14 Step 10 (currently $177,885\\)
+   
+
+  
+
+**This job is open to** 
+  
+
+  
+
+* Internal to an agency
+   
+
+  
+
+ Current federal employees of this agency.
+* Career transition (CTAP, ICTAP, RPL)
+   
+
+  
+
+ Federal employees who meet the definition of a ""surplus"" or ""displaced"" employee.
+* Veterans
+* Individuals with disabilities
+* Military spouses
+* Special authorities
+   
+
+  
+
+ Individuals eligible under a special authority not listed above, but defined in the federal hiring regulations.
+* Land and base management
+   
+
+  
+
+ Certain current or former term or temporary federal employees of a land or base management agency.
+
+
+  
+
+  
+
+**Clarification from the agency** 
+  
+
+  
+
+ Current permanent employees of DON, DoD Military Spouse Preference (MSP) eligibles, DoD Military Reserve (MR) and National Guard (NG) Technician Preference eligibles and DoD Retained Grade Preference eligibles, VEOA eligibles, and 30% disabled veterans.
+   
+
+  
+
+**Duties** 
+  
+
+  
+
+* You will begin assist with the management and leadership duties of the Division.
+* You will provide advice and counsel to members of the Division on business, staffing, personnel, regulatory, and technical competency matters as it applies to the function and operation of the Division.
+* You will assist the Division Head in managing the daily operations of the Division by providing oversight and management of Division projects and initiatives.
+* You will support the Division Head in personnel, financial, contractual, security, safety, and other related duties.
+* You will serve as senior advisor to the Division Head and specific high priority programs.
+* You will serve as supervisor to division Product Owners including supervisory functions of leave approval, timekeeping, performance reviews, and other related supervisory functions.
+* You will implement maintenance/improvement of technical competencies within the Division.
+* You will perform resource manager functions such as assisting with the development, implementation, and management of professional growth and training programs.
+* You will plan for current/future workload.
+* You will have experience in software development and/or information technology environments.
+* You will have experience with applied Agile and Lean concepts and practices.
+* You will have a strong knowledge of federal acquisition, financial management, personnel management, and contracting statutes, regulations, policies, and requirements.
+
+
+  
+
+  
+
+**Requirements** 
+  
+
+  
+
+**Conditions of Employment** 
+  
+
+  
+
+* Must be a US Citizen.
+* Must be determined suitable for federal employment.
+* Must participate in the direct deposit pay program.
+* New employees to the Department of the Navy will be required to successfully pass the E\\-Verify employment verification check. To learn more about E\\-Verify, including your rights and responsibilities, visit e\\-verify.gov
+* Generally, current federal employees applying for GS jobs must serve at least one year at the next lower grade level. This requirement is called time\\-in\\-grade. Time\\-in\\-grade requirements must be met by the closing date of this announcement.
+* Within the Department of Defense (DoD), the appointment of retired military members within 180 days immediately following retirement date to a civilian position is subject to the provisions of 5 United States Code 3326\\.
+* Males born after 12\\-31\\-59 must be registered for Selective Service.
+* You will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withdrawal of a job offer or removal.
+* This position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. You must be able to travel on military and commercial aircraft for extended periods of time.
+* This is a Mission Essential position. You will be required to ensure organization or facility continuity of operations and/or completion of tasks that are considered essential to the mission designated by a local or command decision.
+* Supervisors in the executive branch have a heightened personal responsibility for advancing government ethics. You will be required to review the 14 General Principles of Ethical Conduct at 5 CFR 2635\\.101\\.
+
+
+  
+
+  
+
+**Qualifications** 
+  
+
+  
+
+ In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience at or equivalent to the ND\\-04 (GS\\-12/13 equivilent) grade level or pay band in the Federal service or equivalent experience in the private or public sector.
+ **As a professional engineer or scientist, providing leadership and technical direction, managing division projects, personnel, and resources, and ensuring compliance with federal and Navy regulations while applying Agile, Lean, and strategic planning practices.** 
+  
+
+  
+
+ Examples of should include:
+   
+
+  
+
+ \\- Leadership experience
+   
+
+  
+
+ \\- Agile process experience
+   
+
+  
+
+ \\- Organizational change experience
+   
+
+  
+
+ \\- Systems engineering knowledge and/or experience
+   
+
+  
+
+ Additional qualification information can be found from the following Office of Personnel Management website:
+   
+
+  
+
+ https://www.opm.gov/policy\\-data\\-oversight/classification\\-qualifications/general\\-schedule\\-qualification\\-standards/\\#url\\=List\\-by\\-Occupational\\-Series
+   
+
+  
+
+ Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+   
+
+  
+
+**Education** 
+  
+
+  
+
+ Applicants must meet the following positive education qualifications requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual: Applicants must possess:
+   
+
+  
+
+**Professional Engineer Series, 0801:** 
+ Successful completion of a professional engineering degree. To be acceptable, the program must: (1\\) lead to a bachelor's degree (or higher) in a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET); or (2\\) include differential and integral calculus and courses (more advanced than first\\-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress\\-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. Such education must demonstrate the knowledge, skills, and abilities necessary to do the work of the position.
+   
+
+  
+
+ OR
+   
+
+  
+
+ Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration For more information about EI and EIT registration requirements, please visit the National Society of Professional Engineers website at: http://www.nspe.org
+   
+
+  
+
+ OR
+   
+
+  
+
+ vidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico The FE examination is not administered by the U. S. Office of Personnel Management. For more information, please visit: http://www.nspe.org/Licensure/HowtoGetLicensed/index.html.
+   
+
+  
+
+ OR
+   
+
+  
+
+ Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and in engineering that included the courses specified in the basic requirements under paragraph A (above). The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A (above)
+   
+
+  
+
+ OR
+   
+
+  
+
+ Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least one year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily, there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering\\-type experience, e.g., in interdisciplinary positions.
+   
+
+  
+
+**Professional Computer Science Series, 1515/1520:** 
+ Successful completion of a Bachelor's degree in computer science or bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre\\-accredited institutions.
+   
+
+  
+
+**Additional information** 
+  
+
+  
+
+ This position is covered by the Department of Defense Priority Placement Program.
+   
+
+  
+
+ Additional vacancies may be filled by this announcement.
+   
+
+  
+
+ A tentative offer of employment will be rescinded if the selectee fails to meet the pre\\-employment requirements, including failure to report to any of the scheduled appointments.
+   
+
+  
+
+ During the application process you will have the option to opt\\-in to make your resume available to hiring managers in the agency who have similar positions. Opting in does not impact your application for this announcement, nor does it guarantee further consideration for additional positions.
+   
+
+  
+
+ Federal annuitant information: The selection of an annuitant is subject to the Department of Defense and Department of the Navy policy on the employment of annuitants. Policy information may be found at: http://www.secnav.navy.mil/donhr/Documents/CivilianJobs/FedCivAnnuitants.pdf
+   
+
+  
+
+ Military Spouse Preference applicants will be placed at the highest grade for which they have applied and are determined Best Qualified (BQ). A BQ military spouse possesses knowledge, skills, abilities, and competencies comparable to others who meet the competitive referral criteria for the specific position.
+   
+
+  
+
+**ICTAP Applicants:** 
+ To be considered well\\-qualified and exercise selection priority as an ICTAP candidate, displaced Federal employees must satisfy all qualification requirements for the position and receive a rating in the highly qualified category (score 85\\) or higher. ICTAP candidates must provide copies of all of the following documentation at the time of application: 1\\) agency notice; 2\\) most recent performance appraisal; and 3\\) most recent SF\\-50 or notification of personnel action that includes position, grade level, and duty location. Applicants who do not provide this documentation will not receive consideration as an ICTAP candidate. For more information about ICTAP eligibility please review the following link: https://www.usajobs.gov/Help/working\\-in\\-government/unique\\-hiring\\-paths/federal\\-employees/career\\-transition/
+   
+
+  
+
+ PPP applicants will be placed at the FPL, if determined Well Qualified (WQ). To receive priority consideration, the FPL must be the same grade level or equivalent of the retained grade or the grade held immediately prior to separation.
+   
+
+  
+
+* **Benefits** 
+  
+
+  
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+   
+
+  
+
+ Review our benefits
+   
+
+  
+
+ Eligibility for benefits depends on the type of position you hold and whether your position is full\\-time, part\\-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+
+  
+
+  
+
+**How You Will Be Evaluated** 
+  
+
+  
+
+ You will be evaluated for this job based on how well you meet the qualifications above.
+   
+
+  
+
+ In order to qualify for this position, your resume must provide sufficient experience and/or education, knowledge, skills, and abilities to perform the duties of the specific position for which you are being considered. Your resume is the key means we have for evaluating your skills, knowledge, and abilities as they relate to this position. Therefore, we encourage you to be clear and specific when describing your experience.
+   
+
+  
+
+ When the application process is complete, we will review your resume to ensure you meet the hiring eligibility and qualification requirements listed in this announcement. You will be rated based on the information provided in your resume and responses to the Occupational Questionnaire, along with your supporting documentation to determine your ability to demonstrate the following competencies:
+   
+
+  
+
+* CREATIVITY AND INNOVATION
+* MANAGING HUMAN RESOURCES
+* PARTNERING
+* PROCESS IMPROVEMENT
+* STRATEGIC THINKING
+* SYSTEMS ENGINEERING
+
+
+  
+
+  
+
+ You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+   
+
+  
+
+ If after reviewing your resume and supporting documentation, a determination is made that you inflated your qualifications and/or experience, your score may be adjusted to more accurately reflect your abilities or you may be found ineligible/not qualified.
+   
+
+  
+
+ Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employm...","","","","","","","",""
+"zr-rwTsQlN0cwIbE9PBLF-0Hw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=rwTsQlN0cwIbE9PBLF-0Hw","","IT Systems Engineer","Health Precision, Inc.","Manhattan, NY, USA","2024-12-06","fulltime","direct_data","yearly",80000.0,90000.0,"USD","","","","subs_fulfillment","","**Responsibilities:** 
+ Medical Brain’s clients include Health Systems/Hospitals and Physician Practices. Our IT Systems Engineer has ownership of managing all aspects of our technology interactions with our clients including:
+ 
+
+
+* Engaging with clients and their IT Teams to assess various intersections of technology with the Medical Brain such as local networks, clients’ cloud systems, and data interoperability
+* Collaborating with the Medical Brain’s Clinical and Account Management Teams in initial deployment and ongoing technology management of clients’ use of the Medical Brain
+* Coordinate technical support issue resolution with client’s IT teams and the Medical Brain’s client Account Managers
+* Coordinate technical support and issue resolution with the Medical Brain’s North American teams
+* Coordinate technical support and issue resolution of the Medical Brain’s extensive data interoperability capabilities and platform
+* Collaborate with internal compliance teams and vendors regarding cybersecurity
+
+
+
+**Requirements and qualifications:** 
+
+
+
+* Bachelor’s degree or higher in Computer Science, Engineering, or Information Technology from an accredited US university
+* 5 years of relevant experience in IT systems management
+* Experience troubleshooting locally installed and cloud\\-based applications on user devices including desktops, laptops and mobile devices (iOS and Android)
+* Experience in project coordination of software deployment projects as part of technology teams
+* Excellent interpersonal skills for interaction with internal teams as well as clients and clients’ IT Teams
+* Preference will be given to candidates with relevant experience, preferably at a healthcare software company or at a Hospital, Physician Practice or equivalent
+* Preference will be given to candidates with understanding of the use of various clinical or administrative software such as EHRs at a Hospital, Physician Practice or equivalent
+
+
+
+
+
+### About Health Precision, Inc.:
+
+
+
+
+ healthPrecision, Inc. is the leading provider of advanced decision support solutions to the global healthcare industry. We create innovative, intelligent and integrated software to streamline critical functions in healthcare. Our solution \\- The Medical Brain® is a patient centered platform that connects the patient’s entire healthcare ecosystem for seamless coordination of care, early detection and facilitation of care management. The Medical Brain intelligently and continuously evaluates data from all sources to form an intelligent clinical picture that identifies issues in real\\-time and alerts patients and providers for rapid action. We are dedicated to helping clinicians, patients and caregivers make better healthcare decisions.
+   
+
+  
+
+ healthPrecision has great career opportunities which offer, among other things, an exciting, fast\\-paced work\\-environment and advancement opportunities. We have brought together a multifaceted team of leading experts in clinical practice, healthcare delivery, decision support, machine learning, data science, workflow, quality and compliance, behavioral sciences and patient engagement to create the Medical Brain.","","","","","","","",""
+"zr-KpC6DCDvv4Nbr5LAnfo-fg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=KpC6DCDvv4Nbr5LAnfo-fg","","Senior Lead Architect- Digital Document Management","JPMorganChase","Jersey City, NJ, USA","2024-12-06","","direct_data","yearly",171000.0,260000.0,"USD","","","","agency","","**JOB DESCRIPTION** 
+  
+
+  
+
+
+ If you are excited about shaping the future of technology and driving significant business impact in financial services, we are looking for people just like you. Join our team and help us develop game\\-changing, high\\-quality solutions.
+ 
+
+
+
+ As a
+ **Senior Lead Architect** 
+ at JPMorgan Chase within the
+ **Digital Document Management** 
+ team of
+ **Corporate Sector** 
+ , you are an integral part of a team that works to develop high\\-quality architecture solutions for various software applications and platforms products. You drive significant business impact and help shape the target state architecture through your capabilities in multiple architecture domains.
+ 
+
+
+
+**Job responsibilities** 
+
+
+
+* Engages with technical teams and business stakeholders to propose technical approaches for current and future needs.
+* Defines the technical target state of products and drive the achievement of strategic goals.
+* Provides feedback and propose improvements to architecture governance practices.
+* Guides the evaluation of current technology and lead the assessment of new technologies using existing standards and frameworks.
+* Executes creative software solutions, design, development, and technical troubleshooting, thinking beyond conventional approaches.
+* Drives decisions influencing product design, application functionality, and technical operations.
+* Develops secure, high\\-quality production code and review and debug code written by others.
+* Identifies opportunities to eliminate or automate recurring issues to improve operational stability.
+* Actively contributes to the engineering community as an advocate of firmwide frameworks, tools, and practices of the Software Development Life Cycle.
+* Leads evaluation sessions with external vendors, startups, and internal teams to assess architectural designs and technical credentials.
+
+
+
+
+**Required qualifications, capabilities, and skills** 
+
+
+
+* Formal training or certification on software engineering concepts and 5\\+ years applied experience
+* Proficiency in solutions architecture and platform architecture.
+* Hands\\-on experience in system design, application development, testing, and operational stability.
+* Experience as an AI Practitioner with AI App / GenAI App Builder.
+* Advanced proficiency in one or more programming languages and proficient in all aspects of the Software Development Life Cycle.
+* Advanced understanding of agile methodologies, including CI/CD, application resiliency, and security.
+* Demonstrated proficiency in software applications and technical processes within a technical discipline (e.g., cloud, AI, machine learning, mobile).
+* In\\-depth knowledge of the financial services industry and IT systems.
+* Practical cloud\\-native experience.
+* Advanced knowledge of software, applications, and architecture disciplines.
+* Ability to evaluate current and emerging technologies to recommend future state architecture solutions.
+
+
+
+**Preferred qualifications, capabilities, and skills** 
+
+* Experience with model building and ML engineering, including fine\\-tuning of Large Language Models (LLMs).
+* Knowledge of Azure.
+* Experience with multiple data technology stacks, including Databricks and NoSQL datastores like AWS DynamoDB and MongoDB.
+* Engineering experience with ETL/ELT software patterns and packages.
+* Architecture and engineering experience with cloud\\-based relational databases such as AWS Aurora, RDS, and Postgres.
+* Experience with streaming platforms like AWS Kinesis and Kafka.
+* AWS certifications for architecture and engineering.
+
+
+
+**ABOUT US** 
+  
+
+  
+
+
+
+ JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+ 
+
+
+
+
+
+
+ We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on\\-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+ 
+
+
+
+
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+ 
+
+
+
+ JPMorgan Chase \\& Co. is an Equal Opportunity Employer, including Disability/Veterans
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+**ABOUT THE TEAM** 
+  
+
+  
+
+
+ Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.
+ 
+
+  
+
+
+
+ The Digital team is dedicated to creating innovative, industry\\-leading products and experiences that help customers access, share and control their financial data so they can make smart decisions with their money. Teams enable innovation while adhering to the firm’s data sharing principles of security, customer control and convenience, and privacy.","","","","","","","",""
+"zr-0G35sHPPizAU6iOracHzoQ","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=0G35sHPPizAU6iOracHzoQ","","Construction Project Manager - Retail & Commercial","Imperium Construction Services","New York, NY, USA","2024-12-06","fulltime","direct_data","yearly",90000.0,150000.0,"USD","","","","subs_fulfillment","","**About Us:** 
+  
+
+ Imperium Construction Services is a growing general contracting firm specializing in high\\-end commercial and retail projects. We take pride in our motto,
+ *""Build to Inspire,""* 
+ and strive to deliver top\\-tier construction services that exceed client expectations. As we continue to expand, we are seeking an experienced Project Manager to join our team and lead complex, large\\-scale projects from inception to completion.
+ 
+
+
+
+**Position Overview:** 
+  
+
+ The Project Manager will be responsible for overseeing all phases of construction projects, ensuring they are completed on time, within budget, and to the highest quality standards. You will lead a diverse team of subcontractors and coordinate with architects, engineers, and clients to ensure smooth project execution. This role requires someone with a proven track record in commercial and retail construction who can manage tight deadlines, evolving designs, and dynamic project environments.
+ 
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Lead and manage all aspects of assigned construction projects from pre\\-construction through closeout.
+* Develop and maintain project schedules, budgets, and forecasts.
+* Coordinate with architects, engineers, and subcontractors to ensure design and construction alignment.
+* Oversee and help coordinate MEP designs.
+* Ensure compliance with safety regulations, building codes, and quality standards.
+* Manage procurement and bidding processes, including contract negotiations and award.
+* Conduct regular site visits and meetings to monitor progress and resolve issues.
+* Prepare and present project updates, reports, and cost analyses to stakeholders.
+* Foster strong relationships with clients, suppliers, and subcontractors.
+* Address design changes and construction challenges proactively to meet deadlines.
+
+
+
+**Qualifications:** 
+
+
+
+* Bachelor’s degree in Construction Management, Civil Engineering, or related field (preferred).
+* Minimum of 5 years of project management experience in commercial and retail construction.
+* Strong knowledge of construction processes, materials, and MEP systems.
+* Experience with estimating, budgeting, and cost control.
+* Proficiency in construction management software (e.g., Procore, Bluebeam, MS Project).
+* Excellent leadership, organizational, and communication skills.
+* Ability to manage multiple projects and meet tight deadlines.
+* Strong problem\\-solving skills and attention to detail.
+* PMP or similar project management certification is a plus.
+
+
+
+**Compensation \\& Benefits:** 
+
+
+
+* **Competitive salary**
+* **Benefits** 
+ :
+	+ 401(k) plan
+	+ Healthcare contribution
+	+ Paid time off
+	+ Growth and development opportunities within an expanding company
+
+
+
+
+
+### About Imperium Construction Services:
+
+
+
+
+ Imperium Construction Services isn’t just about building structures—we’re about crafting experiences. Specializing in high\\-end commercial and retail construction, we take pride in delivering spaces that blend function with design, making a bold statement in every project. Our motto, ""Build to Inspire,"" is more than words—it’s the standard we set for every project, from flagship stores to corporate offices.","","","","","","","",""
+"zr-dhhyPRooRXwJ_dDtzuyJkg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=dhhyPRooRXwJ_dDtzuyJkg","","Mainframe Developer","NYC IT Inc","New York, NY, USA","2024-12-06","parttime","direct_data","hourly",45.0,50.0,"USD","","","","subs_fulfillment","","MANDATORY SKILLS/EXPERIENCE Note: Candidates who do not have the mandatory skills will not be considered. 
+   
+
+ • Must have at least 5 years of hands\\-on development experience in Mainframe, ADABAS/NATURAL, JCL, TSO and Utilities
+   
+
+  • Strong written and spoken communication skills • Candidate must have strong interpersonal skills, Team Player, and Dynamic Thinker
+   
+
+  • Detailed technical understanding of data and technical database design 
+   
+
+ • Develop Ad\\-hoc reports, extracts and processes using ADABAS/NATURAL and JCL 
+   
+
+ • Full software lifecycle experience from requirements thru implementation and production support 
+   
+
+ • Experience developing functional and technical design documents from business requirements
+   
+
+  • Proven at least 5 years’ technical experience in Mainframe applications customization and support.
+   
+
+  • Provide Resumes of IT professional/s that will provide the Services. 
+   
+
+  
+
+ DESIRABLE SKILLS/EXPERIENCE: 
+   
+
+ • Experience in system and data mapping and conversion preferred 
+   
+
+ • Experience with COBOL, SAS, REXX, CRM, .NET may be helpful","","","","","","","",""
+"zr-YMor6qO6M1NZoNf0zk295Q","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=YMor6qO6M1NZoNf0zk295Q","","Software Engineering Internship","Ambrook","New York, NY, USA","2024-12-06","","","","","","","","","","organic","","**About Ambrook** 
+
+
+ Ambrook's mission is to make sustainability profitable for family\\-run businesses. 
+ 
+
+  
+
+
+
+ In the face of historic heat waves, drought, flooding, supply chain disruptions, water shortages, and pollution, climate impacts are intensifying across industrial America: from farmers facing crop losses, to truckers navigating fuel volatility, to contractors managing material shortages. Evidence shows sustainable practice upgrades deliver financial returns \\- from water\\-efficient irrigation to fuel\\-efficient fleets \\- but these changes require significant upfront capital and a clear proof of return\\-on\\-investment to owner\\-operators facing tight cashflows and razor\\-thin margins already. With data scattered across paper records and outdated systems, operators struggle to forecast whether a practice change will improve their bottom line \\- let alone prove business health to lenders and other funders. 
+ 
+
+  
+
+
+
+ Ambrook is solving this chicken\\-and\\-egg problem by re\\-architecting the financial data layer of America's independent businesses. We're replacing unruly paperwork and expensive, archaic tools with an affordable accounting, banking and payments platform that helps operators understand their numbers and access capital for sustainable transitions.
+ 
+
+  
+
+
+
+ Ambrook customers are our economy's historic backbone and a manifestation of the American Dream. Done right, both financial and environmental sustainability enables these entities to stay independent and resilient in the face of climate\\-driven volatility. 
+ 
+
+  
+
+
+
+ We're a Series A startup backed by top investors (Thrive Capital, Homebrew, Designer Fund, BoxGroup, and more) and are looking for early team members who are looking to untangle the knotted intersection between American industry and climate.
+ 
+
+  
+
+
+
+ Learn more about our mission and what it's like to work with us.
+ 
+
+  
+
+
+
+ As one of our first engineering interns, you'll work as a valued member of our team building features that directly impact farmers across America. This is an exciting opportunity to gain real\\-world development experience while contributing to sustainable agriculture, with mentorship from experienced engineers who are invested in your growth.
+ 
+
+
+
+ We're looking for someone who we can count on to...
+ + Own: Build and ship real product features that customers use, while helping improve our infrastructure alongside experienced engineers.
++ Learn: Gain experience in engineering best practices, agile development, and working across teams while discovering how agritech and climate solutions help farmers succeed.
++ Grow: Understand the basics of agricultural finance, farm operations, and sustainability practices through hands\\-on project work.
++ Contribute: Help identify ways to improve our development process and codebase while learning full\\-stack development.
+
+
+
+
+
+
+ Within the first few weeks you'll
+ + Learn how to use Ambrook's tech stack to deliver a standalone feature to our customers
++ Contribute to Engineering team meetings and review code from peers.
++ Analyze Ambrook's use of best practices and share a technical note with our team about where we have opportunities to improve.
+
+
+
+
+
+
+ By the end of your internship you'll...
+ + Collaborate with the team as the owner for a full\\-stack feature built into our core product. As the engineering owner, you'll break down your project into granular pieces and practice good project management hygiene, triaging and prioritizing new issues that come in.
++ Collaborate with our Product team to influence prioritization of feature ideas and requests with insights from our audience.
++ Embed yourself deeply in understanding the state of farm finance, building a strong intuition about customer needs and audience segmentation.
+
+
+
+
+
+
+ About you
+ + Currently pursuing B.S. (or higher) in Computer Science or a related field. Expected graduation: 2025\\-2026
++ Available full\\-time for 12\\-16 weeks between May \\- December 2025
++ Excited to build software that makes natural resource industries like agriculture more sustainable and profitable.
++ Comfortable taking on ambiguous problems and creating elegant technical solutions
++ Exhibits strong computer science fundamentals and an eagerness to learn
++ Bonus: Experience with Typescript, React, React Native, and/or Next.js.
++ Bonus: Track record of building and shipping complex software projectsBonus: Experience in agriculture
+
+
+
+
+
+
+ Our tech stack
+ + Next.js / React application written in Typescript
++ Hosted on Google CloudFirestore \\& CloudSQL for data storage
++ BigQuery \\& Data Studio for data insights
+
+
+
+
+
+
+ What makes this internship special
+ + Make a real difference: Build features that help farmers adopt sustainable practices and grow their businesses
++ Experience life at a high growth startup: see the complete product development cycle, from design to deployment in a fast\\-paced environment
++ Get personalized mentorship: Work directly with senior engineers who are invested in your growth
++ Join a mission\\-driven team: Experience startup culture while helping build the future of sustainable agriculture
++ Work closely with customers: Your work will help real farms and agribusinesses across America succeed \\- and you'll get to meet some of them
+
+
+
+
+
+
+ Values
+ + Real Talk \\- We create space for ourselves and others to be straightforward, vulnerable, and accountable.
++ Reach Understanding \\- We are driven by curiosity and empathy to learn about our customers, team, and world.
++ Be Proactively Resourceful \\- We are internally motivated and externally empowered to identify opportunities and solve problems.
++ Derisk Thoughtfully \\- We lean into the biggest risks we face as a company and put in the work to address them systematically.
++ Find the Positive\\-Sum \\- We believe in creating incentive structures that align the needs of our company, our customers, and our planet.
+
+
+
+
+
+
+ The hourly rate for this internship is $40 USD \\+ housing stipend.
+ 
+
+  
+
+
+
+ Ambrook is an equal opportunity employer. We are committed to building diversity and inclusion into our core company culture.
+ 
+
+
+ Apply for this job","","","","","","","",""
+"zr-wh7D9OkYrdYl52ZQ9Wn0Qg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=wh7D9OkYrdYl52ZQ9Wn0Qg","","NICET I Transportation Construction Inspector","Kane Partners LLC","Jersey City, NJ, USA","2024-12-06","fulltime","direct_data","yearly",65000.0,80000.0,"USD","","","","subs_fulfillment","","**Join Our Team as a Jr. Transportation Construction Inspector!** 
+
+
+
+
+ Are you ready to make an impact in the New Jersey and New York region? We're seeking a detail\\-oriented Transportation Construction Inspector for a hybrid role that blends fieldwork with technical oversight.
+ 
+
+
+
+**What You'll Do:** 
+
+
+
+
+ · Oversee and inspect highway and bridge projects to ensure compliance with design and material specifications.
+ 
+
+
+
+ · Review and interpret construction plans and blueprints, ensuring adherence to all regulations.
+ 
+
+
+
+ · Collaborate with project teams to maintain high standards of quality and safety.
+ 
+
+
+
+**Qualifications** 
+ :
+ 
+
+
+
+ · BS in Civil Engineering (BSCE) required.
+ 
+
+
+
+ · NICET certification in transportation/highway and bridge construction is highly desired.
+ 
+
+
+
+ · PE license is a plus!
+ 
+
+
+
+**Why Join Us?** 
+
+
+
+
+ · Contribute to essential infrastructure projects in a dynamic environment.
+ 
+
+
+
+ · Enjoy the flexibility of a hybrid role with plenty of fieldwork.
+ 
+
+
+
+ · Be part of a team dedicated to excellence and innovation and fun!!
+ 
+
+
+
+ · Veterans are encouraged to apply!
+ 
+
+
+
+**Ready to build your future with us? Apply today and help shape the roads and bridges of tomorrow!** 
+
+
+
+
+
+
+### About Kane Partners LLC:
+
+
+
+
+ Kane Partners LLC is a Philadelphia based full service staffing firm, your HR Solution concentrating on technology clients, especially Information Technology (IT), Engineering and Manufacturing. For those clients we continue to successfully offer a full range of staffing services across all disciplines, including: Information Technology (IT), Engineering, Manufacturing, Sales \\& Marketing, Accounting \\& Finance and Administrative.
+   
+
+  
+
+ As a full service staffing firm, Kane Partners provides all services within staffing and HR services including: Permanent Placement, Retained, Contract, Contract\\-to\\-Hire, and Temporary Staffing.
+   
+
+  
+
+ Kane Partners serves a range of industries, focusing on: Electronics, Telecommunications, Consumer Products, Manufacturing, Software Development, Networking, Pharmaceuticals, Semiconductor, Healthcare, Financial Services, and Government.","","","","","","","",""
+"zr--SYawVQLcf6aTx8gh1gbRw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=-SYawVQLcf6aTx8gh1gbRw","","Manufacturing Software Engineer","Randstad USA","Amityville, NY, USA","2024-12-05","fulltime","direct_data","yearly",70000.0,100000.0,"USD","","","","staffing","","The engineer will play a role in a small team designing and maintaining software applications for our ever\\-growing family of force and torque measurement products. This includes front\\-end design all the way to back\\-end communications with hardware. This is a perfect environment for a self\\-driven individual who is looking to handle the challenge of designing scientific software that is globally used.
+ 
+
+
+
+**\\* This is not a web development position \\- please do not apply if your experience is limited to full\\-stack development \\*** 
+
+
+
+
+  
+ 
+
+
+
+  
+ 
+
+
+* B.S./B.E. in Computer Science, Computer Engineering, Electrical Engineering, or Equivalent
+* Minimum 2 Years of Experience in Application Development
+* Solid Understanding of Object Oriented Programming Principles and Design Patterns
+* Experience with C\\#/Microsoft .NET
+* Strong Experience in WPF, Avalonia, or other XAML based framework (1 Year\\+)
+* Understanding of MVVM Architecture
+* Experience with Front End and Back End Development
+* Ability to design clean, working, documented code
+
+
+
+**Skills:** 
+
+
+
+* Work well in a team
+* Solve problems effectively
+* Great attention to detail
+* Good math skills
+* Excellent communication skills
+* Creative thinker
+* Adapt to a variety of situations
+* Ability to meet deadlines
+
+
+
+**Nice to have the following experience:** 
+
+
+
+* WinForms
+* Linux
+* Raspberry PI
+* Python
+* Asynchronous code and threading
+* Touch Screen Application Development
+* Electronics \\& Hardware Design
+* Embedded Systems
+* USB/UART Communication Interfaces
+* Source Control with GIT
+* Data Processing and Calculation Software Development
+* Databases
+* Computer Graphics","","","","","","","",""
+"zr-8bSM_MwkjFJYExL5y_zaJA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=8bSM_MwkjFJYExL5y_zaJA","","Design Engineer","Synerfac Technical Staffing - Cherry Hill","Lakewood, NJ, USA","2024-12-05","","direct_data","yearly",65000.0,85000.0,"USD","","","","subs_fulfillment","","Design Engineer
+   
+
+  
+
+ The main responsibility of the Design Engineer will be to support production services through mechanical design and layout. Our client is a Custom Metal Fabrication company in Southern NJ.
+   
+
+  
+
+ :
+   
+
+  
+
+ \\- Review Drawings/Blueprints for accuracy and design feasibility
+   
+
+  
+
+ \\- Review, modify, create flat layout designs to reduce production deficiencies
+   
+
+  
+
+ \\- Provide timely updates for drawing completion and workload
+   
+
+  
+
+ \\- Maintain and use ERP Software
+   
+
+  
+
+ :
+   
+
+  
+
+ \\- 3
+   
+
+ \\-5 years of experience working in similar work environment
+   
+
+  
+
+ \\- AutoCAD and SolidWorks experience
+   
+
+  
+
+ \\- Experience with sheet metal a a PLUS
+   
+
+  
+
+ \\- Solid communication skills and able to work in a team environment
+   
+
+  
+
+ \\#ZRCH","","","","","","","",""
+"zr-hY_VqqkFH_B2iijq9JrCGw","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=hY_VqqkFH_B2iijq9JrCGw","","Senior Security Engineer","AXA Professionals","Long Island City, NY, USA","2024-12-05","contract","direct_data","hourly",65.0,75.0,"USD","","","","subs_fulfillment","","**About the Role:** 
+
+
+
+
+ AXA Professionals, LLC (AXA) is actively seeking a 
+ **Senior IT Security Engineer** 
+  for a long\\-term engagement with a government client based in New York City. This role is ideal for a seasoned professional with deep expertise in cybersecurity, network design, and system administration. You will be responsible for implementing secure systems and policies while supporting critical IT infrastructure in a government environment.
+ 
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Design and implement 
+ **secure networks, systems, and applications** 
+  ensuring high performance and reliability.
+* Develop, enforce, and maintain 
+ **security policies, standards, and procedures.**
+* Administer and support 
+ **Windows** 
+  and 
+ **Linux operating systems.**
+* Troubleshoot and resolve issues in the 
+ **TCP/IP stack** 
+  and ensure compliance with the 
+ **OSI model.**
+* Stay ahead of emerging 
+ **cybersecurity threats** 
+  and recommend effective mitigations.
+* Collaborate with stakeholders to ensure secure and operationally effective solutions.
+* Conduct assessments and manage complex cybersecurity incidents.
+
+
+
+**Required Qualifications:** 
+
+
+
+* Minimum 
+ **12 years of experience** 
+  in technical roles involving IT security, network administration, or related areas.
+* Proven track record in designing 
+ **secure networks, systems, and applications.**
+* In\\-depth knowledge of cybersecurity frameworks, 
+ **OSI model, and TCP/IP stack.**
+* Strong experience in 
+ **planning and developing security policies** 
+  and procedures.
+* Proficiency with 
+ **Windows and Linux operating systems.**
+
+
+
+**Preferred Qualifications:** 
+
+
+
+* Certifications such as 
+ **CISSP, Security\\+, Network\\+, CCNA, or PCNSE.**
+* Hands\\-on experience in 
+ **system administration** 
+  across multiple platforms.
+* Expertise in implementing security controls aligned with compliance standards like 
+ **NIST, CIS, and ISO 27001\\.**
+
+
+
+**Technical Expertise Required:** 
+
+
+
+* Advanced understanding of 
+ **network architecture** 
+  and 
+ **platform security.**
+* Knowledge of 
+ **firewalls, intrusion detection/prevention systems, and secure network implementations.**
+* Experience with 
+ **cybersecurity methodologies** 
+  and frameworks.
+
+
+
+**Domain Experience:** 
+
+
+
+* Prior experience in 
+ **IT/software development** 
+  within 
+ **government or public sector environments.**
+
+
+
+  
+ 
+
+
+
+ This position is based in 
+ **Long Island City, NY** 
+ , with work primarily conducted at the client site in 
+ **2 MetroTech Center, New York.** 
+
+
+
+
+
+
+### About AXA Professionals:
+
+
+
+
+ AXA Professionals is a premier recruitment agency specializing in connecting highly skilled IT technicians and healthcare professionals with top\\-tier organizations. Our mission is to deliver exceptional staffing services that address the critical needs of technology and healthcare sectors, ensuring operational efficiency and excellence in patient care.
+   
+
+ About Us: Founded in 2001 on the principles of communication, customer service, integrity, and innovation, AXA Professionals bridges the gap between talented IT experts and dedicated healthcare workers with leading companies and healthcare facilities. Our dual focus allows us to cater to the evolving needs of both technology and healthcare sectors, delivering tailored staffing solutions that drive success and growth.
+   
+
+ Our Services:
+   
+
+ · IT Technician Staffing: We provide comprehensive staffing solutions for IT roles, including network administrators, systems analysts, cybersecurity experts, and technical support specialists. Our recruitment process ensures that only the most qualified candidates are matched with clients’ specific IT needs.
+   
+
+ · Healthcare Professional Recruitment: From nurses and doctors to allied health professionals and administrative support, we source, screen, and place top talent across a wide range of healthcare disciplines. Our goal is to enhance patient care and streamline healthcare operations.
+   
+
+ · Customized Staffing Solutions: We understand that each client has unique needs. Whether you require temporary, permanent, or contract staffing, we offer flexible solutions that adapt to your organization’s requirements and timelines.","","","","","","","",""
+"zr-H43pt9Ix3BalP9z-g8tNmA","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=H43pt9Ix3BalP9z-g8tNmA","","Audio Visual Engineer","DBI Staffing","New York, NY, USA","2024-12-04","contract","direct_data","hourly",35.0,45.0,"USD","","","","subs_fulfillment","","**RESPONSIBILITIES:** 
+
+
+
+* Manage video conferences remotely from the AV control room, including setting up calls, bridging external participants, switching camera views and microphone audio, and setting up video recordings as needed.
+* Oversee conference room setups for special events, coordinate meetings with internal and external parties, document detailed requirements, organize tests events, and provide support during events.
+* Operate, maintain, repair, and adjust AV equipment such as lapel microphones, handheld microphones, wall\\-mounted cameras/speakers, Crestron panel technology, and AV control room instruments.
+* Maintain a detailed inventory of AV equipment, track maintenance life cycles, and plan equipment software and security updates and hardware refreshes.
+* Build relationships with internal and external AV support teams, understand escalation processes, and coordinate resources for frictionless operations.
+* Mentor team members to develop backup support.
+* Set up WebEx, Zoom, and Teams meetings in conference rooms.
+* Set up and take down equipment for events in conference rooms.
+* Resolve AV and level 1 deskside support incidents during the first contact, escalating to higher tiers when necessary.
+* Document incident status and solutions in ServiceNow tickets and Knowledge Base articles.
+* Advise on the use, limitations, design, and construction of instruments and equipment.
+* Perform other duties and responsibilities as assigned.
+
+
+
+  
+
+**REQUIREMENTS:** 
+
+
+
+* Minimum of 2 to 3 years of AV support experience required.
+* Experience in a law firm or professional services environment is a plus.
+* High school diploma required.
+* AV industry certifications are a plus.
+* Must be client service oriented by providing a polite, friendly, positive, and timely service and incident resolution to internal and external stakeholders.
+* Able to work independently and as part of a team.
+* Able to prioritize and multi\\-task effectively in a fast\\-paced environment.
+* Recognize new or unprecedented problems or situations, evaluate alternatives, and find solutions using a systematic, multi\\-step approach; develop improvements and innovations to enhance performance.
+* Be highly responsive to initial requests and follow through on all commitments, both stated and implied; work diligently to ensure that everyone seeking AV and deskside support receives the highest level of service.
+* Strong problem\\-solving skills and the ability to troubleshoot technical issues quickly and efficiently.
+* Excellent communication and interpersonal skills, with the ability to interact effectively with all levels of staff.
+* Ability to work independently and as part of a team in a fast\\-paced environment.
+* Must be able to work the Firm's core business hours while maintaining flexibility subject to business needs.
+* Must have working knowledge of conference room instruments, including but not limited to Cisco WebEx hardware and software and Microsoft Teams platforms.
+* Must have familiarity and experience with conference room technology and standard use cases, including Crestron, Biamp, Zoom, and Teams.
+* Ability to work under tight deadlines and stressful situations.
+* Must be independently legally authorized to work in the United States
+
+
+
+  
+
+**PHYSICAL DEMANDS:** 
+
+
+
+* Sitting and/or standing for extended periods of time
+* Dexterity of hands and fingers to operate a computer keyboard and mouse, power tools, and other computer components
+
+
+
+  
+
+**WORK CONDITIONS:** 
+
+
+
+* Sitting and/or standing for extended periods of time.
+* Dexterity of hands and fingers to operate a computer keyboard and mouse, power tools, and other computer components.","","","","","","","",""
+"zr-KdTNNFjW0MCZ03JZ33uGYg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=KdTNNFjW0MCZ03JZ33uGYg","","Senior Mechanical HVAC Engineer","Liberty Personnel Services, Inc","Cranford, NJ, USA","2024-12-04","fulltime","","","","","","","","","staffing","","**Senior Mechanical Engineer (PE) \\- HVAC Engineer** 
+
+
+
+
+
+
+
+
+
+***MEP\\- Mechanical Engineer\\- HVAC\\- MEP Engineer***
+  
+
+  
+
+ An excellent consulting engineering firm in the local area is actively seeking to add a Senior HVAC Mechanical Engineer to the organization due to continued growth. Individuals at this level will have experience leading projects and mentoring junior staff. This role will provide technical leadership for the creation of construction drawings \\& specifications, existing system studies and planning efforts for projects involving HVAC systems, plumbing systems, and coordinating multifaceted projects.
+ 
+
+
+
+  
+
+**Desired skills:** 
+
+
+
+* Work with in\\-house design staff as well as interface with other engineering disciplines, architects, owners, and clients
+* Designing HVAC and plumbing systems independently as well as in a team environment
+* Determine HVAC load, specs, sizing equipment, ductwork, and piping
+* Manage and participate in the designing of multiple concurrent projects
+* Strong ability to interpret technical drawings
+* Leading design team efforts
+* Managing project team for budget and schedule control
+* Experience with Load Calculation Software
+* Familiarity with relevant codes: mechanical, energy, plumbing and ensure design conforms with all applicable codes and client standards
+* Perform HVAC calculations and analysis using standard industry programs
+* Client coordination, pre\\-design services, final design services, meetings, site visits, and project management
+* Energy modeling experience a plus
+
+
+
+
+
+
+
+
+**Requirements:** 
+
+
+
+* Bachelor’s degree in mechanical engineering or a related discipline from an accredited college or university (engineering technology, architectural engineering, etc.)
+* Approximately ten (10\\) or more years’ experience in mechanical systems design for commercial, educational, industrial, and corporate projects
+* SCA experience a plus
+* EIT registration required, Professional Engineer license or ready to test desired
+* Construction specification \\& documentation development, as well as construction administration
+* Fluency in Revit, Microsoft Office products, AutoCAD, and various engineering software tools
+
+
+
+
+
+
+
+***\\*\\*\\*Our client is competitive for top talent in the marketplace, providing multiple perks including a strong benefits plan, PTO, 401(k), work life balance and a competitive compensation plan to name a few.\\*\\*\\****
+
+
+
+
+**Alex Showers** 
+
+
+
+
+**Liberty Personnel Services** 
+
+
+
+
+**\\#ConsultingEngineering** 
+
+
+
+
+**\\#Midsenior** 
+
+
+
+
+
+
+
+
+
+**Key Words:** 
+ (Mechanical Engineer, MEP, Mechanical, HVAC, Mechanical, Plumbing, MEP, Consulting Engineer, Revit, AutoCAD, EIT, PE, Professional Engineer, Engineer In Training, HVAC)
+ 
+
+
+
+
+
+### About Liberty Personnel Services, Inc:
+
+
+
+
+ Established in 2003, Liberty Personnel quickly grew into one of the largest technical recruiting agencies on the East Coast. Today, Liberty Personnel has a national presence and a diverse client base. Listed below are a number of the industries and openings we work on:
+   
+
+  
+
+ Information Technology, Software Programmers, Engineering, Manufacturing, Plant Maintenance, Construction, Oil and Gas, Medical Communications, Accounting, Finance, Electronics, Scientific, Medical Device, Sales, Pharmaceutical, Admin, Automation, Controls, Civil, HVAC, Wastewater, Structural, Electrical, Chemists, Validations, Logistics, Food Production, Renewable Energy and Machinists","","","","","","","",""
+"zr-dzW8zGK3-L2jwa4ccjSWFg","zip_recruiter","https://www.ziprecruiter.com/jobs//j?lvk=dzW8zGK3-L2jwa4ccjSWFg","","Manufacturing Engineer 13606","TriMech Services","Fairfield, NJ, USA","2024-12-04","fulltime","direct_data","yearly",90000.0,130000.0,"USD","","","","subs_fulfillment","","**Manufacturing Engineer** 
+
+
+
+
+  
+
+ Role and Responsibilities:
+   
+
+ This individual plans, directs, and coordinates manufacturing processes within GPR facilities. This position develops, evaluates, and improves manufacturing methods, utilizing knowledge of product design, materials and parts, fabrication processes, tooling and production equipment capabilities, assembly methods, and quality control standards.
+   
+
+  
+
+ Key duties/responsibilities of Manufacturing Engineer, including, but not limited to:
+   
+
+ • Creates solid model parts and assemblies.
+   
+
+ • Creates bill of materials (BOM) and bill of operations (BOO).
+   
+
+ • Evaluates manufacturing processes by designing and conducting research programs; applying knowledge of product design, fabrication, assembly, tooling, and materials; conferring with equipment vendors; soliciting observations from operators.
+   
+
+ • Analyzes and plans work force utilization, space requirements, and workflow, and designs layout of equipment and workspace for maximum efficiency.
+   
+
+ • Confers with planning and design staff concerning product design and tooling to ensure efficient production methods.
+   
+
+ • Confers with vendors to determine product specifications and arrange for purchase of equipment, materials, or parts, and evaluates products according to specifications and quality standards.
+   
+
+ • Estimates production times, prepare quotations and related costs to provide information for management decisions.
+   
+
+ • Confers with management, engineering, and other staff regarding manufacturing capabilities, production schedules, and other considerations to facilitate production processes.
+   
+
+ • Applies statistical methods to estimate future manufacturing requirements and potential.
+   
+
+  
+
+ Qualifications and Education Requirements
+   
+
+ • B.S. in Mechanical Engineering or similar engineering field
+   
+
+ • Experience in strategic planning and execution. Knowledge of contracting, engineering, and change management.
+   
+
+ • Skill in examining and re\\-engineering operations and procedures.
+   
+
+ • Experience in formulating policy and developing and implementing new strategies and procedures.
+   
+
+ • Knowledge of communications and public relations techniques.
+   
+
+ • Works requires ability to motivate teams and simultaneously manage several projects.
+   
+
+ • Experience using SolidWorks or similar 3D software.
+   
+
+ • Knowledge of Geometric Dimensioning and Tolerancing (GD\\&T)
+   
+
+  
+
+ Language Skills:
+   
+
+ Ability to understand and speak English. Must be able to analyze and interpret general business periodicals, professional journals and technical procedures. Ability to effectively present information and respond to questions from supervisors, managers, clients, customers, and the general public.
+   
+
+ Mathematical Skills:
+   
+
+ Ability to apply concepts such as fractions, percentages, ratios, and proportions to practical situations. Reasoning Ability Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of instructions furnished in written, oral, diagram or schedule form, and deal with several abstract and concrete variables.
+   
+
+ Physical demands:
+   
+
+ The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to reach with hands and arms; and talk or hear. The employee is regularly required to stand; walk; sit; and use hands or fingers, handle or feel. The employee is frequently required to stand and work, lift and/ or move up to 50 pounds. Specific vision abilities required by this job include close vision, depth perception, color vision and the ability to adjust focus. Work environment The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate and sometimes loud.
+ 
+
+
+
+
+
+### About TriMech Services:
+
+
+
+
+ TriMech Services specializes in the placement of qualified technical candidates for both temporary and direct hire opportunities. TriMech Services offers a unique approach to matching the specialized skill sets of our candidates specific industries.","","","","","","","",""

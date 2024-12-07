@@ -1,0 +1,1308 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009556652048","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009556652048","","Software Development Engineer, Amazon Q Business, Chat","Amazon Web Services, Inc.","New York, NY","2024-12-07","","direct_data","yearly",129300.0,223600.0,"USD",False,"","","organic","","* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+
+Amazon Q Business is revolutionizing workplace productivity through innovative generative AI technology. As a cutting\\-edge AI\\-powered assistant, it transforms how enterprises operate by empowering employees to be more creative, data\\-driven, efficient, prepared, and productive. Unlike traditional AI assistants, Amazon Q Business leverages advanced artificial intelligence to answer questions, provide summaries, generate content, and securely complete tasks based on enterprise data.
+  
+  
+
+The candidate will join the Retrieval team, responsible for obtaining the most relevant documents relevant to answer the user's queries.
+  
+  
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3\\) and Amazon Elastic Compute Cloud (EC2\\), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+  
+  
+
+About the team
+  
+Diverse Experiences
+  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+  
+  
+
+About AWS
+  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+  
+  
+
+Inclusive Team Culture
+  
+Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+  
+  
+
+Work/Life Balance
+  
+We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+
+Mentorship \\& Career Growth
+  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.
+  
+  
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+  
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.glassdoor.com/Overview/W-EI_IE7470741.htm","https://media.glassdoor.com/sql/7470741/amazon-web-services-squareLogo-1680754591940.png","","","","",""
+"gd-1009556393113","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009556393113","","Futures Engineering Team - Software Engineer - GBM Public - NYC","Goldman Sachs","New York, NY","2024-12-07","","direct_data","yearly",110000.0,130000.0,"USD",False,"","","organic","","**What We Do**
+
+The Futures Engineering team at Goldman Sachs specializes in the design and development of software that supports a **global, 24\\-hour trading** business. We work alongside the business to build **scalable and resilient applications** used by our clients and internal Trading and Sales desks.
+
+
+We build systems capable of processing 1000s of messages per second and terabytes of data. We develop user\\-facing tooling and large\\-scale post\\-execution systems that help drive the success of the fast\\-paced Futures business. We build reference data services that expose the vast Futures product universe to our trading applications. We design and implement software that directly integrates with other financial firms and Futures exchanges across the Street.
+
+
+The team is working on a **multi\\-year uplift** of the order trading workflow platform. This is a great opportunity to help build the next generation of high touch Futures trading applications at Goldman Sachs. In this role, you will work closely with the desk to design **highly customizable and flexible tooling** to support our sales traders’ as they execute orders on behalf of GS clients.
+
+
+We are a team of **full\\-stack software engineers** empowered to utilize leading open\\-source software and proprietary GS technologies in order to build enterprise\\-grade systems that align with business goals. We work with a wide range of technologies; our stack is predominantly written in **Java** with **Kafka** \\-based messaging and **Hadoop/HBase** based persistent stores. We also work heavily with the **React** framework for front\\-end application development and rely on a **git\\-based SDLC** .
+
+
+The Futures Agency business at Goldman Sachs is responsible for providing our clients with **electronic order execution** on Futures exchanges located across the globe. We offer GS clients both low\\-latency direct market access and a customizable high\\-touch sales trader workflow. We utilize **proprietary algorithms** to execute our clients’ orders and offer many **post\\-execution services** to help our clients better manage their risk.
+
+
+**Your Opportunity**
+
+We are looking for a hands\\-on software engineer that can excel in the end\\-to\\-end development process, gathering requirements from sales and trading desks, designing solutions, creating execution plans, and implementing, testing and delivering high\\-quality results.
+
+
+You will have the opportunity to work with large\\-scale distributed systems that have numerous touchpoints with a variety of internal and external teams.
+
+
+You will have the opportunity to work both independently and collaboratively within teams, demonstrating the ability to deliver individually, while also supporting group initiatives to achieve shared goals.
+
+
+The ideal candidate will bring an agile mindset and be familiar with technical standards and best practices.
+
+
+Be given a platform to contribute fresh ideas and innovative solutions to an ever changing fast passed front office problems.
+
+
+**Qualifications**
+
+* BS degree or higher in Engineering field, preferably Computer Science
+* 1\\-3 years of software engineering experience
+* Java development experience
+* UI development experience
+* Familiarity with large scale software architecture and design
+* Strong communication skills
+
+**Salary Range**  
+
+The expected base salary for this New York, New York, United States\\-based position is $110000\\-$130000\\. In addition, you may be eligible for a discretionary bonus if you are an active employee as of fiscal year\\-end.
+
+
+**Benefits**  
+
+Goldman Sachs is committed to providing our people with valuable and competitive benefits and wellness offerings, as it is a core part of providing a strong overall employee experience. A summary of these offerings, which are generally available to active, non\\-temporary, full\\-time and part\\-time US employees who work at least 20 hours per week","","https://www.glassdoor.com/Overview/W-EI_IE2800.htm","https://media.glassdoor.com/sql/2800/goldman-sachs-squarelogo-1579121885039.png","","","","",""
+"gd-1009556150194","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009556150194","","Engineering Manager, Fixed Route","Via","New York, NY","2024-12-07","","direct_data","yearly",180000.0,250000.0,"USD",False,"","","organic","","Via is using technology to transform transportation around the world. From changing a single person’s daily commute to reducing humanity’s collective environmental footprint — we’ve got huge goals.
+
+
+
+As an **Engineering Manager** at Via, you’ll lead the development of a new product that helps transit agencies deliver reliable and efficient service to their communities. You’ll guide a team of engineers in building something entirely new while working closely with other teams to ensure the product integrates seamlessly into Via’s ecosystem. This role offers the unique opportunity to create from the ground up while leveraging the strengths of an established platform to maximize impact.
+
+
+**What You'll Do:**
+
+
+* Lead a full\\-stack engineering team to deliver scalable, high\\-quality products.
+* Partner with cross\\-functional teams across Via to align engineering efforts with business goals.
+* Define and execute the team’s roadmap to meet company objectives and deliver impact.
+* Uphold technical excellence through thoughtful best practices, code reviews, and architectural improvements.
+* Mentor and coach engineers to foster professional growth and a culture of collaboration.
+* Optimize team processes, resolve blockers, and ensure efficient project delivery.
+* Stay current with industry trends to drive innovation and prepare the team for emerging challenges.
+
+
+**Who You Are:**
+
+
+* Minimum of 7 years of software development experience building reliable, user\\-focused web applications and solving complex technical challenges.
+* Proven ability to lead engineering teams, delivering impactful projects and fostering team growth through clear direction and actionable feedback.
+* Strong understanding of modern web application frameworks and technologies.
+* Familiarity with cloud platforms, containerization, and CI/CD pipelines to support efficient workflows.
+* Skilled at collaborating with cross\\-functional teams to translate business needs into high\\-quality technical solutions.
+* Strong communicator and leader, fostering a positive and inclusive team culture that drives collaboration and innovation.
+* Adaptable and proactive problem\\-solver, thriving in dynamic environments and aligning team efforts with evolving company goals.
+
+
+**Compensation and Benefits:**
+
+
+* Final salary will be determined by the candidate’s experience, knowledge, and skills. Salary reflected does not include equity or variable pay, where applicable
+* Salary Range: $180,000\\-$250,000
+* We are proud to offer a generous and comprehensive benefits package, including free medical plans and 401K matching.
+
+
+We’re Via, and we build technology that changes the way the world moves. We pioneered the TransitTech category to ensure that the future of transportation is shared, dynamic public mobility — the kind that reduces carbon emissions across congested cities, minimizes reliance on private cars, and provides *everyone* with accessible, efficient, and affordable ways of getting around.
+
+
+
+We created the first end\\-to\\-end TransitTech solution for cities and transit agencies, offering world\\-class software, service design, and operational expertise to fundamentally improve the way the world moves.
+
+
+
+Via was founded with the guiding principle that we go further when we go together. We are dedicated to building a diverse, inclusive and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. All backgrounds, identities, and voices are welcomed and celebrated at Via.","","https://www.glassdoor.com/Overview/W-EI_IE720191.htm","https://media.glassdoor.com/sql/720191/via-transportation-squarelogo-1582821685035.png","","","","",""
+"gd-1009555096774","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555096774","","Senior Software Engineer, Infrastructure, Google Cloud NetInfra","Google","New York, NY","2024-12-06","","","","","","",False,"","","organic","","**Minimum qualifications:**  
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience with software development in C\\+\\+, and with data structures/algorithms.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience developing large\\-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+
+
+**Preferred qualifications:**  
+
+* Master's degree or PhD in Computer Science or related technical field.
+* 1 year of experience in a technical leadership role.
+* Experience developing accessible technologies.
+
+
+About the job
+  
+  
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+  
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+  
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+  
+The US base salary range for this full\\-time position is $161,000\\-$239,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+  
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more aboutbenefits at Google.
+  
+  
+
+Responsibilities
+  
+  
+
+* Write and test product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.","","https://www.glassdoor.com/Overview/W-EI_IE9079.htm","https://media.glassdoor.com/sql/9079/google-squarelogo-1441130773284.png","","","","",""
+"gd-1009554983001","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554983001","","Senior Python Software Engineer","Orbis","New York, NY","2024-12-06","","direct_data","yearly",200000.0,200000.0,"USD",False,"","","organic","","* New York, NY (Hybrid)
+* Permanent
+* Up to $200k \\+ Bonus \\+ Equity
+**REF: 11095**
+**Senior Python Software Engineer – Hybrid Role in New York City \\|** U**p to $200,000, with a competitive bonus and equity package**
+
+
+**Step into the Future of Trading and Cryptocurrency Innovation**
+
+
+
+Are you ready to harness your Python expertise in an industry that’s transforming the financial landscape? As a Senior Python Software Engineer, you’ll play a pivotal role in shaping cutting\\-edge solutions for the rapidly evolving trading and cryptocurrency sectors. This is more than just a job—it’s an opportunity to contribute to meaningful innovation and grow your career in a dynamic, high\\-growth environment.
+
+
+**What Sets This Role Apart**
+
+
+* **Top\\-Tier Compensation**: Earn up to $200,000, with flexibility based on experience, alongside a generous bonus and equity package.
+* **Hybrid Work Model**: Enjoy a balance between collaboration and flexibility with 3\\-4 days in the New York City office and 1\\-2 days working remotely.
+* **Innovative Sector**: Be at the forefront of tech advancements in trading and cryptocurrency. Your work will directly impact the future of these industries.
+
+
+**Key Responsibilities**
+
+
+* Develop and maintain scalable backend systems using Python.
+* Collaborate with cross\\-functional teams to design and implement full\\-stack solutions.
+* Ensure applications are secure, reliable, and scalable in a high\\-stakes trading environment.
+
+
+**Required Skills and Experience**
+
+
+* **Python Expertise**: Strong proficiency in Python is essential. Experience with Node.js or React.js is beneficial but not mandatory—this role is primarily focused on backend development.
+* **Full\\-Stack Development**: While backend is the core focus, familiarity with full\\-stack development principles will be an advantage.
+* **Industry Experience**: Previous experience in trading, finance, or cryptocurrency is a plus, but a passion for technology and innovation is key.
+
+
+**Why Join?**
+
+
+
+Join a forward\\-thinking team that values your contributions and fosters an environment where your career can thrive. If you’re looking for a role that offers professional growth and the chance to make a tangible impact, this opportunity is tailored for you.
+
+
+* + **Consultant:** Dylan Martin
+
+  
+
+
+At Orbis Group, we are committed to creating an inclusive and diverse workplace. Research indicates that candidates, especially from underrepresented backgrounds, often hesitate to apply for jobs if they don't meet every qualification.  
+
+  
+
+If you're excited about a role but don't perfectly align with every requirement, we encourage you to apply. Your unique skills and experiences may be the perfect fit for the job or other opportunities that arise.","","https://www.glassdoor.com/Overview/W-EI_IE1314264.htm","https://media.glassdoor.com/sql/1314264/orbis-consultants-squarelogo-1515679132942.png","","","","",""
+"gd-1009555548831","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555548831","","Associate - Mulesoft API and Python Lambda Developer","New York Life Insurance Co","New York, NY","2024-12-06","","direct_data","yearly",65000.0,110000.0,"USD",False,"","","organic","","**Location Designation:** Hybrid \\- 3 days per month
+
+ **Role Overview**
+
+
+We are seeking a talented and experienced Mulesoft API and Python Lambda Developer to join our dynamic Client Communications Technology team. In this role, you will play a crucial part in designing, developing, and maintaining robust, scalable, and secure API integrations and serverless functions to enhance our client communication systems.
+
+**What You’ll Do:**
+
+* **API Development:**
+	+ Design, develop, and deploy RESTful APIs using Mulesoft Anypoint Platform.
+	+ Ensure API performance, security, and scalability.
+	+ Implement API versioning, rate limiting, and other best practices.
+	+ Collaborate with cross\\-functional teams to define API contracts and data models.
+* **Serverless Function Development:**
+	+ Develop and deploy serverless functions using AWS Lambda and Python.
+	+ Write efficient and well\\-structured Python code.
+	+ Integrate serverless functions with other systems and APIs.
+	+ Troubleshoot and optimize function performance.
+* **Integration Development:**
+	+ Design and implement integrations between various systems, including legacy systems and cloud\\-based applications.
+	+ Utilize Mulesoft connectors and transformers to map and transform data.
+	+ Handle error handling, logging, and monitoring of integrations.
+* **Testing and Debugging:**
+	+ Write unit, integration, and end\\-to\\-end tests to ensure code quality.
+	+ Troubleshoot and resolve issues in API and serverless function implementations.
+	+ Collaborate with QA teams to identify and fix defects.
+* **Deployment and Maintenance:**
+	+ Deploy and manage API and serverless function deployments to production environments.
+	+ Monitor system performance and proactively address issues.
+	+ Implement continuous integration and continuous delivery (CI/CD) pipelines.
+
+**What You’ll Bring:**
+
+* Strong proficiency in Mulesoft Anypoint Platform, including MuleSoft Anypoint Studio, API Manager, and CloudHub.
+* Solid understanding of API design principles, RESTful APIs, and API security standards (OAuth, OpenID Connect).
+* Experience with Python programming language, including AWS Lambda and serverless architecture.
+* Knowledge of data integration patterns and techniques.
+* Familiarity with cloud platforms, preferably AWS.
+* Strong problem\\-solving and analytical skills.
+* Excellent communication and collaboration skills.
+* Experience with CI/CD tools and methodologies.
+
+**Preferred Qualifications:**
+
+* Experience with API testing tools (e.g., Postman, Swagger UI).
+* Knowledge of data transformation languages (e.g., DataWeave).
+* Experience with containerization technologies (e.g., Docker, Kubernetes).
+* Understanding of DevOps practices and tools.
+
+
+If you are a passionate and skilled developer who thrives in a fast\\-paced environment, we encourage you to apply.
+
+  
+
+
+
+**Pay Transparency**
+
+
+Salary Range: $65,000\\-$110,000
+
+
+Overtime eligible: Exempt
+
+
+Discretionary bonus eligible: Yes
+
+
+Sales bonus eligible: No
+
+  
+
+Actual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program.
+
+ **Our Benefits**
+
+
+We provide a full package of benefits for employees – and have unique offerings for a modern workforce, including leave programs, adoption assistance, and student loan repayment programs. Based on feedback from our employees, we continue to refine and add benefits to our offering, so that you can flourish both inside and outside of work.Click hereto discover more about our comprehensive benefit options or visit our NYL Benefits Site.
+
+  
+
+
+
+**Our Diversity Promise**
+
+
+We believe in a diverse workforce because it is our mission to advocate for the financial security and success of people in every community. This is why diversity, equity, and inclusion (DEI) are guiding principles that are embedded in our brand and our culture. Click here to learn more about how we have been recognized for our leadership.
+
+  
+
+Recognized as one of *Fortune’s* World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation. We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com.
+
+  
+
+
+
+Job Requisition ID: 91109","","https://www.glassdoor.com/Overview/W-EI_IE2915.htm","https://media.glassdoor.com/sql/2915/new-york-life-squarelogo.png","","","","",""
+"gd-1009555758311","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555758311","","C# Developer","Wallero Technologies inc","Weehawken, NJ","2024-12-06","","direct_data","hourly",60.0,70.0,"USD",False,"","","organic","shashidhar.k@wallero.com","**Job Title: C\\#/.Net Developer**
+
+**Location: New Jersey**
+
+**Job Description**:
+
+The successful candidate will be a ‘hands on’ developer working within a small focused team with exposure to Equity personnel. The development team is an integral part of a high energy front\\-office environment. As a result, the candidate will need to be highly committed, and be able to build very close working relationships with both the business and support teams.
+
+This role is for a C\\# developer to work within Cash Equities IT. The Core GUI team develops and maintains in\\-house C\\# GUI applications to support manual \\& automated trading \\-including DMA and algorithmic trading.
+
+**Requirements:**
+
+* Excellent core C\\#/.Net
+* Commercial experience in Winforms or WPF development \\& GUI usability
+* Experience of the project life\\-cycle, including capturing requirements, code\\-reviewing and unit testing
+* Client server development techniques
+* Strong communication and team working skills
+* Experience of integration between Java and C\\#
+
+**•** Practical experience and understanding of Equities Trading IT
+
+* Java development experience
+
+Thanks
+
+shashidhar.k@wallero.com
+
+Job Type: Contract
+
+Pay: $60\\.00 \\- $70\\.00 per hour
+
+Schedule:
+
+* 8 hour shift
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE1900831.htm","https://media.glassdoor.com/sql/1900831/wallero-squareLogo-1696876040378.png","","","","",""
+"gd-1009554792496","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554792496","","Java Full Stack Developer","Chuwa America","New York, NY","2024-12-06","","direct_data","hourly",60.0,65.0,"USD",False,"","","organic","","Role: Sr Java developer
+
+NYC or jersey City hybrid 3 days
+
+Key skills: investment banking exp with react and 12\\+ years genuine candidates only.
+
+Its a full stack developer role with experience in ReactJs, finacle and investment banking experience
+
+**Note : Finacle Experience would be an added advantage.**
+
+Job Type: Contract
+
+Pay: $60\\.00 \\- $65\\.00 per hour
+
+Expected hours: 40 per week
+
+Schedule:
+
+* 8 hour shift
+
+Experience:
+
+* REST: 10 years (Required)
+* Java: 10 years (Required)
+* Investment banking: 7 years (Required)
+* Finacle: 5 years (Preferred)
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE2211184.htm","https://media.glassdoor.com/sql/2211184/chuwa-america-squarelogo-1585046921615.png","","","","",""
+"gd-1009555721408","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555721408","","Acceleration Center Financial Crimes Unit - Risk Architecture Experienced Associate, Software Engineer (Python/SQL)","PRICE WATERHOUSE COOPERS","New York, NY","2024-12-06","","direct_data","yearly",66000.0,78000.0,"USD",False,"","","organic","","At PwC, our people in data and analytics focus on leveraging data to drive insights and make informed business decisions. They utilise advanced analytics techniques to help clients optimise their operations and achieve their strategic goals. In data analysis at PwC, you will focus on utilising advanced analytical techniques to extract insights from large datasets and drive data\\-driven decision\\-making. You will leverage skills in data manipulation, visualisation, and statistical modelling to support clients in solving complex business problems.  
+
+Driven by curiosity, you are a reliable, contributing member of a team. In our fast\\-paced environment, you are expected to adapt to working with a variety of clients and team members, each presenting varying challenges and scope. Every experience is an opportunity to learn and grow. You are expected to take ownership and consistently deliver quality work that drives value for our clients and success as a team. As you navigate through the Firm, you build a brand for yourself, opening doors to more opportunities.
+
+
+Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+
+* Apply a learning mindset and take ownership for your own development.
+* Appreciate diverse perspectives, needs, and feelings of others.
+* Adopt habits to sustain high performance and develop your potential.
+* Actively listen, ask questions to check understanding, and clearly express ideas.
+* Seek, reflect, act on, and give feedback.
+* Gather information from a range of sources to analyse facts and discern patterns.
+* Commit to understanding how the business works and building commercial awareness.
+* Learn and apply professional and technical standards (e.g. refer to specific PwC tax and audit guidance), uphold the Firm's code of conduct and independence requirements.
+
+  
+
+As an Associate in our Risk Analytics and Modeling team, you’ll have the opportunity to apply your quantitative, modeling and analytical skills in a real world environment to develop or validate statistical, financial engineering, and AI/machine learning models in the areas of credit risk, market risk, assets and liabilities management, fraud detection, anti money laundering and other functional modeling and analytics area.
+
+
+Job Requirements and Preferences:  
+
+  
+
+Basic Qualifications:  
+
+  
+
+**Minimum Degree Required**:  
+
+Bachelor Degree  
+
+  
+
+**Minimum Years of Experience**:  
+
+2 year(s)  
+
+  
+
+Preferred Qualifications:  
+
+  
+
+**Preferred Fields of Study**:  
+
+Economics, Statistics, Applied Mathematics, Mathematics, Financial Mathematics, Data Processing/Analytics/Science  
+
+  
+
+**Additional Educational Preferences**:
+
+
+Master Degree in Financial Engineering is also preferred.
+
+**Preferred Knowledge/Skills**:
+
+
+Demonstrates some abilities and/or a proven record of success in the implementation of Advanced Data Analytics and modeling that include:
+
+* Possessing experience with one or more of the following key programming and data analytics tools: Python, R, SAS;
+* Working knowledge of the following secondary languages and tools is a plus: Java, C\\+\\+/C\\#, SQL, Tableau, Alteryx, and Excel Macros / VBA /JS;
+* Displaying understanding of advanced AI/machine learning, statistical/econometric modeling techniques, and financial engineering methods to develop and/or validate models (Masters\\-level coursework in at least one of these subject areas is preferred);
+* Demonstrating knowledge of the financial services industry;
+* Demonstrating exposure to modeling methodologies in at least one of the following areas: credit risk, market risk, assets and liabilities management, fraud detection, anti money laundering and other functional modeling and analytics areas; and,
+* Displaying knowledge or familiarity with industry financial instrument pricing tools and data sources e.g. Bloomberg, Refinitiv etc.
+  
+
+
+Learn more about how we work: https://pwc.to/how\\-we\\-work  
+
+  
+
+PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.  
+
+  
+
+All qualified applicants will receive consideration for employment at PwC without regard to race; creed; color; religion; national origin; sex; age; disability; sexual orientation; gender identity or expression; genetic predisposition or carrier status; veteran, marital, or citizenship status; or any other status protected by law. PwC is proud to be an affirmative action and equal opportunity employer.  
+
+  
+
+The salary range for this position is: $66,000 \\- $78,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","","https://www.glassdoor.com/Overview/W-EI_IE8450.htm","https://media.glassdoor.com/sql/8450/pwc-squareLogo-1710175827241.png","","","","",""
+"gd-1009555753478","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555753478","","Full Stack Java Developer","ENIN SYSTEMS","New York, NY","2024-12-06","","direct_data","hourly",33.0,40.0,"USD",False,"","","organic","","**Job Summary**  
+We are seeking a talented and motivated Full Stack Developer to join our dynamic team. The ideal candidate will have a strong background in both front\\-end and back\\-end development, with a passion for building scalable applications and enhancing user experiences. You will be responsible for developing high\\-quality software solutions, collaborating with cross\\-functional teams, and contributing to all phases of the software development lifecycle.
+
+**Duties**
+
+* Design, develop, and maintain web applications using modern technologies.
+* Collaborate with UX/UI designers to implement responsive and user\\-friendly interfaces.
+* Write clean, maintainable code in languages such as JavaScript, Ruby on Rails, and Java.
+* Utilize frameworks like React and Express to enhance application functionality.
+* Manage version control using GitHub for efficient code collaboration.
+* Participate in code reviews to ensure code quality and best practices.
+* Troubleshoot and debug applications to optimize performance.
+* Stay updated with emerging technologies and industry trends to continuously improve skills.
+
+**Qualifications**
+
+* Proficiency in web development technologies including Ruby on Rails, JavaScript, Java, React, and Express.
+* Experience in application development and software development processes.
+* Familiarity with GitHub for version control management.
+* Knowledge of programming languages such as C is a plus.
+* Understanding of quantum engineering concepts is advantageous but not required.
+* Strong problem\\-solving skills and attention to detail.
+* Ability to work collaboratively in a team environment while also being self\\-motivated.
+* Excellent communication skills to effectively convey technical concepts.
+
+Join us in creating innovative solutions that make a difference! We look forward to your application.
+
+Job Types: Full\\-time, Contract
+
+Pay: $33\\.90 \\- $40\\.83 per hour
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+
+Experience:
+
+* REST: 1 year (Preferred)
+* Java: 1 year (Preferred)
+
+Ability to Commute:
+
+* New York, NY 10001 (Preferred)
+
+Ability to Relocate:
+
+* New York, NY 10001: Relocate before starting work (Required)
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE6395458.htm","","","","","",""
+"gd-1009555410592","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009555410592","","Software Development Engineer, Automotive","Amazon.com Services LLC","New York, NY","2024-12-06","","direct_data","yearly",129300.0,223600.0,"USD",False,"","","organic","","* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+
+We're on a journey to build something new! Come join our team and build new discovery and shopping products that connect customers with their vehicle of choice. We're looking for a talented Software Development Engineer to join our team of product managers, designers, and engineers to design, and build innovative automotive\\-shopping experiences for our customers.
+  
+  
+
+This is a great opportunity for an experienced engineer to design and implement the technology for a new Amazon business. We are looking for a Software Development Engineer to design, implement and deliver end\\-to\\-end solutions. You will mentor engineers and support the foundation of a new development team, using your engineering experience to build an culture of innovation, quality and customer obsession.
+  
+  
+
+Key job responsibilities
+  
+* Design and build full\\-stack solutions. Your solutions will enable delivery of innovative automotive experiences and experiences across devices and web.
+* Use your problem\\-solving skills, collaborating with creative and technical teams, thinking\\-big and inventing and simplifying to solve challenges.
+* Deliver novel customer experiences by developing solutions which include innovative UX strategies, AWS services and large scale back\\-end services.
+* Collaborate with teams across Amazon to integrate and optimize existing ad products to take advantage of Amazon's scale and reach.
+* Leverage your technical ability, excellent organizational and communication skills to build and solve challenging and ambiguous problems. You'll use your ingenuity and motivation to achieve results in a fast\\-paced environment.
+* Provide guidance to and mentor SDEs in these team.
+* Set a high quality bar, ensuring quality design reviews and robust engineering practices for automated testing, code coverage and full CI/CD pipelines.
+
+
+A day in the life
+  
+As a Software Development Engineer on this team, you will create software designs and implementation for medium\\-to\\-large scale projects across all areas of this new automotive shopping initiative. You will work directly with creative, product management and program management to define requirements and apply your technical expertise to solve difficult software problems in a fast\\-paced environment. You'll design and build software and systems for novel customer experiences, AWS services, and large\\-scale back\\-end web services, all with the goal of delivering a seamless experience to the customer.
+  
+  
+
+About the team
+  
+This role is one of the first on a newly formed team with a vision to create innovative automotive discovery and shopping experiences on Amazon, providing customers better convenience and more selection. We’re collaborating with other experienced teams at Amazon to define the future of how customers research and shop for cars online.
+  
+  
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+  
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.glassdoor.com/Overview/W-EI_IE6036.htm","https://media.glassdoor.com/sql/6036/amazon-squarelogo-1552847650117.png","","","","",""
+"gd-1009554464079","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554464079","","Software Engineering Consultant","Accenture","New York, NY","2024-12-06","","","","","","",False,"","","organic","","**We Are**
+
+
+Accenture is recognized as a global leader in software engineering, helping businesses across industries create, migrate, manage, and optimize their complex software solutions. Through partnerships with leading cloud providers such as AWS, Microsoft Azure, and Google Cloud, Accenture offers end\\-to\\-end services that drive innovation and business agility.
+
+
+The **Software Architect Team Practice** focuses on helping organizations define, plan, and implement innovative technology strategies that drive business value. Leveraging deep expertise in modern engineering and software development, this practice works collaboratively with clients to design scalable, secure, and resilient solution deployed into a cloud environment. The practice offers guidance in key areas such as modern software architecture foundation, security and resiliency, full\\-stack engineering, and cloud\\-native development approaches, ensuring that clients achieve agility, operational efficiency, and long\\-term growth. By aligning technology initiatives with business goals, the practice helps organizations realize the full potential of technology innovation while navigating industry\\-specific challenges and regulations.
+
+**The Work**
+
+**As a Software Engineering Advisory Consultant,** you will guide organizations through complex custom software engineering solutioning and implementation process. With a proven track record in both stakeholder relationship management, software engineering and technology architecture principles, you will ensure that the proposed software solution is aligned with broader business goals. You will lead software engineering projects, from strategy development to execution, ensuring that solutions meet security, scalability, and financial targets, while working effectively in uncertain, dynamic environments.
+
+**Key Areas of Expertise:**
+
+* Software Engineering Strategy, Technology Advisory, Technology Modernization and Transformation
+* Software Solutions Design, Cloud Application Architecture, Application Integration
+* Software Engineering methodology, Project and Program Management
+* IaaS, SaaS, PaaS
+* Public cloud providers such as AWS, Microsoft Azure, Google Cloud
+* DevOps and DevEx
+* IT Operations, Security and Compliance
+
+
+Travel may be required for this role. The amount of travel will vary from 25% to 100% depending on business need and client requirements.
+
+
+  
+
+**Here’s what you need**
+
+* Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate’s Degree, must have minimum 6 years work experience)
+* Certification in at least one major cloud provider (Azure, Google, AWS)
+* Minimum of 5 years of hands\\-on experience for the creation of software application architecture blueprints and designs
+* Minimum of 3 years of implementation experience for software application development and explaining the benefits and draw backs of various cloud and infrastructure design choices.
+* Minimum of 1 year of experience evaluating applications for migration, experience with Infrastructure as Code, DevOps, and Developer Experience tool sets
+
+**Professional Skills Requirements**
+
+* Basic knowledge of one or more industry areas (e.g. Hospitality, Banking, Aerospace, Retail, Supply Chain)
+* Strong Critical Thinking, Analytical and Problem\\-Solving Skills
+* Excellent Communication and Interpersonal Skills. You will be expected to communicate business value for all technical solutions all the way to the C\\-Suite in some cases.
+* Strong Story Telling Skills. The ability to effectively communicate, both with the client and internally, the problem solving approach and solution value in alignment with the client’s project goals and objectives.
+* Initiative\\-taking is required. You will likely be given an objective, some constraints, and enough detail to get started. After that, we will expect you to solve problems without hand holding.
+* Demonstrated leadership, comradery, and teamwork in a multi\\-cultural professional setting
+* Curiosity and a desire to continuously learn
+* Experience working in a technology environment in designing and implementing solutions that meet the business need within project timelines
+* Have provided estimations, project plans and resource requirements for designed solutions
+* Have led and guided technical leads, engineers and developers according to architecture and have conducted technical reviews
+* Basic understanding of Servers, Cloud, \\& Hybrid Networking
+* Understanding and experience of operational process \\& tools
+
+**Bonus points if you have**
+
+* Degree in Computer Science, Engineering, Physics, Math preferred
+* Industry specific experience (Financial Services, Health \\& Public Services, Resources, Products, Communications and Media Tech)
+* Experience with Cloud Native, Containers and Serverless Architectures
+* Strong understanding of Cloud Security, Cloud Managed Services frameworks, tools and solutions
+
+
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired in California, Colorado, District of Columbia, Illinois, Maryland, Minnesota, New York or Washington as set forth below.  
+
+We accept applications on an on\\-going basis and there is no fixed deadline to apply.
+
+
+Information on benefits is here.
+
+
+Role Location Annual Salary Range
+
+
+California $63,800 to $203,600
+
+
+Colorado $63,800 to $175,900
+
+
+District of Columbia $68,000 to $187,300
+
+
+Illinois $59,100 to $175,900
+
+
+Minnesota $63,800 to $175,900
+
+
+Maryland $59,100 to $162,900
+
+
+New York $59,100 to $203,600
+
+
+Washington $68,000 to $187,300
+
+
+\\#LI\\-NA\\-FY25
+
+ ***What We Believe***
+
+ *We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.*
+
+ *Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities.* *Read more here*
+
+ ***Equal Employment Opportunity Statement***
+
+ *Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.*
+
+ *All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.*
+
+ *Accenture is committed to providing veteran employment opportunities to our service men and women.*
+
+ *For details, view a copy of the* *Accenture Equal Employment Opportunity and Affirmative Action Policy Statement**.*
+
+ ***Requesting An Accommodation***
+
+ *Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.*
+
+ *If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877\\) 889\\-9009, send us an* *email* *or speak with your recruiter.*
+
+ ***Other Employment Statements***
+
+ *Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.*
+
+ *Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.*
+
+ *Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.*
+
+ *The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.*","","https://www.glassdoor.com/Overview/W-EI_IE4138.htm","https://media.glassdoor.com/sql/4138/accenture-squareLogo-1709650590794.png","","","","",""
+"gd-1009554878587","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554878587","","AVP, Information Security DevOps Engineer","Synchrony","New York, NY","2024-12-06","","direct_data","yearly",75000.0,130000.0,"USD",False,"","","organic","","Job Description:
+
+**Role Summary/Purpose:**
+
+
+The AVP, Information Security DevOps Engineer is part of the Synchrony Information Security Cryptography Team, serving as a Cryptography, Information Security, and Secrets Management subject matter expert responsible for advancing Cryptography and Secrets Management multi\\-cloud platforms,, services, systems, and best practices at Synchrony. The candidate would have an engineering position focused on delivering critical/key enterprise data protection controls, efficient supporting processes, \\& comprehensive automation capabilities to protect \\& enable Synchrony’s Information Security Engineering strategy at scale. The candidate is expected to have a strong understanding of Cryptography/Secrets Management automation, controls, lifecycle management, operations, and security.
+
+
+The AVP, Information Security DevOps Engineer will serve as a key role in safeguarding the organization systems, networks, and data. The position is responsible for designing and building Information Security capabilities, management of these capabilities, and the supporting technology. In addition, this role will be responsible for acting as a trusted advisor for peers and other stakeholders within the organization.
+
+
+We’re proud to offer you choice and flexibility. You have the option to be remote, and work from home, or come into one of our offices. You may be occasionally requested to commute to our nearest office for in person engagement activities such as team meetings, training and culture events.
+
+**Essential Responsibilities:**
+
+* Adopting and promoting engineering excellence by identifying efficiencies and synergies through means of automation, collaboration, and orchestration
+* Collaborates with architecture to identify capability gaps, develop requirements, identify solutions to address, assist with proof of concepts and testing of solutions
+* Implementation and technical lead responsibilities that include ongoing engineering/DevSecOps support for a global cryptography program which leverages a portfolio of data protection capabilities
+* Managing technology from ground up and understanding gaps within the tech stack, including overlap with other technology and/or coverage, capability gaps
+* Maintaining technology from a business as usual (BAU) aspect by ensuring the proper change management, incident management, disaster recover processes are occurring and current
+* Participate as one of several technical leads on team of information security engineers
+* Participate in authoring, editing, providing, or reviewing documentation (procedures, standards) to ensure a well\\-managed and mature security infrastructure
+* Partners with peers within the organization to effectively prioritize work by using agile processes and ensuring risks, impediments, and asks are brought to leadership in a timely fashion
+* Plays a hands\\-on role in the engineering and implementation of security measures that protect the computer systems, networks, and information
+* Plays a key role in designing and building solutions which safeguard the organizations platforms and systems
+* Proactively identifies problems and clearly articulates solutions and recommendations
+* Provide day\\-to\\-day administration and support for infrastructure related to API, application security, firewalls, encryption, intrusion detection systems, PKI, secrets management, vulnerability scanning, security monitoring tools, penetration testing, authentication, web filtering, identity management, or access control systems, and their associated logs and processes
+* Providing engineering/operations support for technology and processes, ensuring superior customer service is being met, and identifying process improvements
+* Serving as a mentor or a subject\\-matter expert (SME) to other InfoSec team members and/or stakeholders throughout the organization
+* Serving as a SAFe Product Owner for cryptographic technologies, accountable for defining/leading/maintaining the team backlog and product roadmap
+* Supporting a “you build it you own it” model – meaning the technology built by engineering is also supported from a wing\\-to\\-wing operations aspect
+* Works closely with Information Security program manager, scrum master, and architects to convey technical impacts to development/engineering timeline and risks
+* Work independently in identifying opportunities to improve engineering or other performance for Information Security/Technology \\& other functions across Synchrony
+* Work with Information Security/Technology engineers and API developers to drive program delivery
+* Perform other duties and/or special projects as assigned
+
+**Qualifications/Requirements:**
+
+* Bachelor's degree with a minimum of 5 years of Information Technology experience, or in lieu of degree, a High School Diploma/GED with a minimum of 8 years of experience in Information Technology.
+* Minimum of 4\\+ years of experience in Information Security.
+* Certifications in audit, big data, cloud, cybersecurity, governance, information security, privacy, risk preferred; AWS, Cloudera, GCP, GIAC, ISC2, ISACA is preferred.
+* Proficient hands\\-on technical/working expertise with API development, API security, AWS, Azure, CI/CD pipelines, Cloudbees/Jenkins, Cloudera, containers, cryptography methodologies, databases, Git/Github, Go, HashiCorp Vault, Java, Linux, Perl, PKI, Python, secrets management, Terraform, tokenization
+* Excellent oral communication and writing skills. Adept and presenting complex topics, influencing and executing with timely / actionable follow\\-through
+
+**Desired Characteristics:**
+
+* Ability to work under pressure and sustain productivity with multiple simultaneous projects across cross\\-functional engineering and operational information security teams
+* Creativity and individual thinking, the ability to work both independently \\& with teams
+* Cyber Security experience, especially around designing, building, managing solutions
+* DevOps and/or Engineering background
+* Engineering and/or architecture experience
+* Experience in modern coding languages such as Python
+* Experience with Agile, Scaled Agile (SAFe), Scrum
+* Good teamwork, oral and written communication
+* Good understanding of security landscape as a whole
+* Familiarity with problem and incident management, change management, notifications, and basic operational understanding of running and maintaining infrastructure
+* Strong and efficient problem\\-solving and analytical skills, willingness to learn
+* Understanding of information security practices and policies, including risks and threats
+* Understanding of various public cloud deployment/platform/service models from a development, infrastructure, and information security aspect
+
+**Grade/Level: 10**
+
+  
+
+The salary range for this position is **75,000\\.00 \\- 130,000\\.00** USD Annual and is eligible for an annual bonus based on individual and company performance.
+
+
+Actual compensation offered within the posted salary range will be based upon work experience, skill level or knowledge.
+
+  
+
+Salaries are adjusted according to market in CA, NY Metro and Seattle.
+
+**Eligibility Requirements:**
+
+* You must be 18 years or older
+* You must have a high school diploma or equivalent
+* You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
+* You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
+* New hires (Level 4\\-7\\) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months’ time in position before they can post for future non\\-exempt roles. Employees, level 8 or greater, must have at least 18 months’ time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don’t meet the time in position or performance expectations).
+
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Our Commitment:**
+
+
+When you join us, you’ll be part of a diverse, inclusive culture where your skills, experience, and voice are not only heard—but valued. We celebrate the differences in all of us and believe that our individual, unique perspectives is what makes Synchrony truly a great place to work. Together, we’re building a future where we can all belong, connect and turn ideals into action. Through the power of our 8 Diversity Networks\\+, with more than 60% of our workforce engaged, you’ll find community to connect with an opportunity to go beyond your passions.
+
+
+This starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Reasonable Accommodation Notice:**
+
+* Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+* If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1\\-866\\-301\\-5627\\. Representatives are available from 8am – 5pm Monday to Friday, Central Standard Time
+
+**Job Family Group:**
+
+
+Information Technology","","https://www.glassdoor.com/Overview/W-EI_IE852160.htm","https://media.glassdoor.com/sql/852160/synchrony-financial-squarelogo-1512591611460.png","","","","",""
+"gd-1009554157081","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554157081","","Software Engineer II","Disney Entertainment & ESPN Technology","New York, NY","2024-12-05","","direct_data","yearly",114900.0,161300.0,"USD",False,"","","organic","","Software Engineer II  
+
+  
+
+**Disney Entertainment \\& ESPN Technology**
+
+
+On any given day at Disney Entertainment \\& ESPN Technology, we’re reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that’s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world.
+
+*A few reasons why we think you’d love working for Disney Entertainment \\& ESPN Technology*
+
+* **Building the future of Disney’s media business:** DE\\&E Technologists are designing and building the infrastructure that will power Disney’s media, advertising, and distribution businesses for years to come.
+* **Reach \\& Scale:** The products and platforms this group builds and operates delight millions of consumers every minute of every day – from Disney\\+ and Hulu, to ABC News and Entertainment, to ESPN and ESPN\\+, and much more.
+* **Innovation:** We develop and execute groundbreaking products and techniques that shape industry norms and enhance how audiences experience sports, entertainment \\& news.
+
+
+The Walt Disney Company has a rich tradition of creating innovative products and magical experiences for millions of people around the world. Software Engineers are at the heart of that innovation and magic, building platforms, services, tools and infrastructure for an unmatched collection of content and brands such as Disney\\+, Hulu, ESPN, and ABC.
+
+
+As a Software Engineer II, Frontend you will focus on building experiences for our core streaming products, pushing the boundaries of what is possible on the client as part of our Web Player team. This team is responsible for creating, owning, and supporting our various playback libraries. We support Disney\\+, Hulu, ESPN, ABC, Marvel, Star Wars, National Geographic, and all of our entertainment and streaming properties by building inner\\-source libraries that deliver video playback!
+
+*Nice to haves:*
+
+* Demonstrate determination in finding solutions to complex puzzles.
+* Has the curiosity to research and learn new technologies.
+* Employ positive thinking and are able to work constructively in a diverse team setting.
+* Passionate about web development.
+* Value learning and being exposed to new experiences.
+* Love working in a startup culture then working at Disney is unlike anything else! We have the latest technology, game\\-changing ideas, and world\\-class talent.
+* Come be a part of our team and help us find new ways to interact with users, however and wherever they connect with our brands.
+
+*Responsibilities:*
+
+* Design and build functionality at the core of our internal video libraries.
+* Prototype new features and own delivery from development to production.
+* Partner with other engineering teams to craft solutions at scale
+* Write user documentation and automated tests.
+* Review code and pull requests to ensure product and design specifications are met.
+* Grow an inclusive team culture built around positive intent.
+
+*Qualifications:*
+
+* Understanding of front\\-end web development technologies and principles.
+* Knowledge of JavaScript, JS frameworks, and server\\-side templating
+* Experience using modern web technologies and APIs.
+* Understanding of open source principles and patterns as they pertain to collaborative development.
+* Demonstrated ability to research and learn new technologies.
+* Strong communication skills and attention to detail
+* Driven and self motivated
+* Minimum 3 years relevant industry experience
+
+*Required Education:*
+
+* BS in Computer Science or related technical discipline or its equivalent.
+
+  
+
+The hiring range for this position in California is $114,900 to $154,100 per year and in New York and Washington is $120,300 to $161,300 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job\\-related knowledge, skills, and experience among other factors. A bonus and/or long\\-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.","","https://www.glassdoor.com/Overview/W-EI_IE717.htm","https://media.glassdoor.com/sql/717/walt-disney-company-squarelogo-1574088286127.png","","","","",""
+"gd-1009553164328","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009553164328","","Backend Engineer - Python, Web frameworks, SQL, MySQL, Postgres - Resy","Amex","New York, NY","2024-12-05","","direct_data","yearly",70000.0,135000.0,"USD",False,"","","organic","","**You Lead the Way. We’ve Got Your Back.**
+
+
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+
+
+At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+
+
+
+Join Team Amex and let's lead the way together.
+
+
+
+As part of our diverse tech team, you can architect, code and ship software that makes us an essential part of our customers’ digital lives. Here, you can work alongside talented engineers in an open, supportive, inclusive environment where your voice is valued, and you make your own decisions on what tech to use to solve challenging problems. American Express offers a range of opportunities to work with the latest technologies and encourages you to back the broader engineering community through open source. And because we understand the importance of keeping your skills fresh and relevant, we give you dedicated time to invest in your professional development. Find your place in technology on \\#TeamAmex.
+
+
+Resy is a hospitality technology platform that powers restaurants around the world and a consumer\\-facing reservation platform for passionate diners. Since its inception in 2014, Resy has created best\\-in\\-class software that elevates dining experiences and connects restaurants to a growing network of highly\\-engaged diners, with the powerful backing of American Express. Resy is a go\\-to destination for restaurant discovery, exclusive access, original content, and chef\\-driven culinary events. The amazing world of restaurants is just two taps away in the Resy app.
+
+
+
+Resy’s restaurant partners use Resy OS — Resy \\| Restaurant Management and Table Reservation Software \\- a complete end\\-to\\-end technology platform — to run their businesses smarter and more efficiently. Resy OS takes into account pre, during and post service guest touchpoints to help operators deliver the best hospitality experience. Platform features include table management, wait list functionality, customized SMS text confirmations, guest feedback tools, reports and analytics for 360\\-degree visibility into operational performance, ticketing, PCI Level 1 compliant third\\-party credit card handling, and more.
+
+
+
+We’re hiring, too. Interested in joining our team of restaurant\\-obsessed explorers? Right this way.
+
+
+
+ABOUT THE ROLE:
+
+
+
+At Resy, we are tackling hard problems with elegant solutions and scaling very quickly. As a Senior Backend Engineer, you will play a crucial role in taking our product to the next level. We are seeking ambitious coders who are eager to build out exciting features for our restaurant partners and Resy diners. The ideal candidates can work quickly while producing pristine work. You thrive in a dynamic and constantly evolving environment, you are a collaborator and an innovator, and you are excited about what technology is doing for the hospitality industry.
+
+
+
+WHO YOU ARE:
+
+
+* Bachelor's degree in Computer Science or Engineering or equivalent work experience
+* Experience working as a Software Engineer, preferably in a fast\\-paced startup environment
+* You are a self\\-starter but very comfortable working closely with a team
+* You are comfortable working with stakeholders outside the Engineering team including our Product, Sales and Account Management teams
+* You have strong expertise with the following:
+* Python / Webframeworks
+* SQL / MySQL / Postgres
+* RDBMS and database design
+* AWS \\- EC2 / RDS / S3 / SQS
+* Unit/Functional Testing
+* Linux/UNIX
+* Implementing and building APIs
+
+
+BIG PLUS IF YOU HAVE:
+
+
+* Python/MySQL Experience
+* SQL Performance tuning
+* Microservice architectures
+* Kafka / Celery / Flask / Django / Supervisor / MongoDB
+* Dev\\-ops experience
+
+
+ Jira / Shortcut \\| Bring Product and Engineering Together or other project management tool
+* Payment systems experience
+* Websockets experience
+* You enjoy at least one of the following things: shishito peppers, uni, or creme anglaise.
+
+
+Salary Range: $70,000\\.00 to $135,000\\.00 annually \\+ bonus \\+ benefits
+
+
+
+The above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we’ll consider your location, experience, and other job\\-related factors.
+
+
+
+We back our colleagues and their loved ones with benefits and programs that support their holistic well\\-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:
+
+
+* Competitive base salaries
+* Bonus incentives
+* 6% Company Match on retirement savings plan
+* Free financial coaching and financial well\\-being support
+* Comprehensive medical, dental, vision, life insurance, and disability benefits
+* Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
+* 20\\+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy
+* Free access to global on\\-site wellness centers staffed with nurses and doctors (depending on location)
+* Free and confidential counseling support through our Healthy Minds program
+* Career development and training opportunities
+
+
+For a full list of Team Amex benefits, visit our Colleague Benefits Site.
+
+
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+
+
+
+We back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in\\-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in\\-office and virtual days) or fully virtually.
+
+
+
+US Job Seekers/Employees \\- Click here to view the “Know Your Rights” poster and the Pay Transparency Policy Statement.
+
+
+
+If the links do not work, please copy and paste the following URLs in a new browser window: https://www.dol.gov/agencies/ofccp/posters to access the three posters.
+
+
+
+Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions.","","https://www.glassdoor.com/Overview/W-EI_IE35.htm","https://media.glassdoor.com/sql/35/american-express-squarelogo-1527106190059.png","","","","",""
+"gd-1009553099124","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009553099124","","LinkedIn expert","Zadeh NY","New York, NY","2024-12-05","","direct_data","hourly",25.0,25.0,"USD",False,"","","organic","","The role involves optimizing and enhancing our LinkedIn presence to reflect our personal brand and professional achievements effectively. This includes cleaning up outdated or irrelevant content, refining your profile summary, curating a cohesive narrative, optimizing for keywords to increase visibility, and crafting engaging posts that showcase our expertise. The goal is to build a polished, compelling LinkedIn profile that attracts the right audience and strengthens our professional network.
+
+**Responsibilities**
+
+* Develop and implement effective LinkedIn strategies to enhance brand visibility and engagement.
+* Utilize IT infrastructure and Ruby on Rails to optimize LinkedIn applications and integrations.
+* Collaborate with cross\\-functional teams to ensure alignment on content and messaging.
+* Analyze performance metrics and adjust strategies based on data insights.
+* Stay updated on LinkedIn trends and best practices to maintain a competitive edge.
+* Provide training and support to team members on LinkedIn tools and features.
+
+**Qualifications**
+
+* Proven expertise in LinkedIn platform optimization and strategy
+* Strong understanding of IT infrastructure and Ruby on Rails
+* Proficient in AWS, REST, and JavaScript
+* Experience in software development and agile methodologies
+* Knowledge of web development practices and SVN
+* Familiarity with MySQL, Java, and GitHub for project management and collaboration
+
+Job Types: Contract, Temporary, Internship
+
+Pay: From $25\\.00 per hour
+
+Expected hours: 1 – 5 per week
+
+Compensation Package:
+
+* Hourly pay
+
+Schedule:
+
+* Choose your own hours
+
+Experience:
+
+* REST: 1 year (Required)
+* Java: 1 year (Required)
+
+Ability to Commute:
+
+* New York, NY 10128 (Preferred)
+
+Ability to Relocate:
+
+* New York, NY 10128: Relocate before starting work (Required)
+
+Work Location: Hybrid remote in New York, NY 10128","","","","","","","",""
+"gd-1009553923978","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009553923978","","Java Software Engineer III","JPMorganChase","Jersey City, NJ","2024-12-05","","direct_data","yearly",133000.0,185000.0,"USD",False,"","","organic","","**JOB DESCRIPTION**  
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+
+As a Software Engineer III at JPMorgan Chase within the Corporate \\& Investment Banking \\- Post Trade Technology, you serve as a seasoned member of an agile team to design and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
+
+**Job responsibilities**
+
+* Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Creates secure and high\\-quality production code
+* Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+* Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+* Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+* Contributes to software engineering communities of practice and events that explore new and emerging technologies
+* Adds to team culture of diversity, equity, inclusion, and respect
+* Manage and support enterprise messaging systems
+
+
+
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on software engineering concepts and 3\\+ years applied experience
+* Hands\\-on practical experience in system design, application development, testing, and operational stability
+* Proficient in coding in Core Java / Spring / Microservices
+* Experience with Testing \\- Junit, Cucumber
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Overall knowledge of the Software Development Life Cycle
+* Solid understanding of agile methodologies such as CI/CD, Application Resiliency, and Security
+* Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+
+
+
+
+**Preferred qualifications, capabilities, and skills**
+
+* Familiarity with modern front\\-end technologies such as React
+* Experience with cloud technologies such as Kubernetes \\& AWS
+* Certifications in Java programming or related technologies (e.g. Spring Certification, AWS, etc.)
+* Experience with GIT/Stash, Maven, Jenkins, JIRA, JSON, Protocol Buffers
+* Experience with enterprise messaging systems such as AMPS, Kafka, including message queues and pub/sub
+* Experience in building high volume systems with real\\-time performance and read \\& write capabilities
+* Experience with real\\-time, event\\-driven systems and service\\-oriented architectures
+
+
+
+
+**ABOUT US**  
+
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on\\-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+
+JPMorgan Chase \\& Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+  
+
+  
+
+  
+
+**ABOUT THE TEAM**  
+
+  
+
+The Corporate \\& Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.","","https://www.glassdoor.com/Overview/W-EI_IE5224839.htm","https://media.glassdoor.com/sql/5224839/jpmorgan-chase-and-co-squareLogo-1724869012253.png","","","","",""
+"gd-1009554313702","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009554313702","","Senior Software Engineer, DevX (New York City)","January","New York, NY","2024-12-05","","direct_data","yearly",175000.0,225000.0,"USD",False,"","","organic","","**About the role:**
+-------------------
+
+
+The DevX team is instrumental in providing January's engineers with the tools and processes to quickly and efficiently write/test/build/deploy code, support our production environments, and provide shared services for stream\\-aligned teams across the organization to achieve business goals.
+
+### **What You’ll Work On**
+
+* Ensure build, test and deployment processes are easy to maintain, fast, and reliable.
+* Ensure engineers' local development experience is performant and user\\-friendly.
+* Provide self\\-service monitoring and observability tools that are easy to use.
+* Scope and secure administrative applications used across the organization.
+* Support engineering\\-wide processes by providing tools and clear documentation.
+* Provide on call support in a rotation schedule with your peers.
+
+### **What You Bring to the Table**
+
+* **CI/CD and Automation:** Proficiency in CI/CD tools such as GitHub Actions, Jenkins, CircleCI, or similar.
+* **Infrastructure and Cloud Platforms:** Experience with cloud platforms, preferably AWS. Knowledge of infrastructure as code (IaC) tools like Terraform, CloudFormation, or Ansible. Familiarity with containerization and orchestration tools (Docker, Kubernetes).
+* **Performance Optimization:** Skills in optimizing build and test pipelines to improve efficiency. Ability to diagnose and resolve performance bottlenecks in applications and infrastructure.
+* **Monitoring and Observability:** Experience with monitoring tools (e.g., Datadog, Grafana, Prometheus). Understanding of logging and observability tools (e.g., ELK Stack, Splunk).
+* **Code Refactoring:** Ability to refactor and modularize code to improve maintainability and scalability.
+* **Problem\\-Solving and Troubleshooting:** Strong analytical skills to diagnose and resolve complex issues. Experience in incident management and on\\-call support.
+* **Documentation and Communication:** Ability to create clear, comprehensive documentation for processes and tools. Strong communication skills for collaborating with team members and other departments.
+
+### **You might be a fit if you have:**
+
+* **Genuine collaboration.** We recognize and explicitly reward feedback, alignment, and learning from each other.
+* **Managers as advocates.** You’ll report to leaders invested in your growth and promotion, not just their own. Managers only succeed when their teams thrive.
+* **Outcomes over output.** We value finding ways to do more with less, working smart instead of burning out.
+* **Product ownership.** Engineers are owners, not mercenaries. Everyone plays a role in discovering, advocating for, and implementing ideas.
+* **Technical quality.** We work collaboratively to ensure great outcomes without sacrificing quality. Sustainable development is a first class priority.
+
+
+January believes in doing its part to help close the wage gap that continues to plague much of the US workforce. We offer transparent and equitable compensation packages to all existing and future January team members.
+
+
+Our compensation range for Senior Software Engineer, DevX role is $175,000 to $225,000\\. We determine the final package by considering experience, applicable education and training, and relevant skills derived throughout our interview process.*This role also includes a competitive equity package, giving you a chance to feel true ownership of your work.*
+
+ **We are currently hiring for this position in our New York office.**","","https://www.glassdoor.com/Overview/W-EI_IE3679163.htm","https://media.glassdoor.com/sql/3679163/january-squarelogo-1629449430812.png","","","","",""
+"gd-1009553164318","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009553164318","","Devops Engineer - Bash , Python , AWS - Resy","Amex","New York, NY","2024-12-05","","direct_data","yearly",110000.0,190000.0,"USD",False,"","","organic","","**You Lead the Way. We’ve Got Your Back.**
+
+
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+
+
+At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+
+
+
+Join Team Amex and let's lead the way together.
+
+
+
+As part of our diverse tech team, you can architect, code and ship software that makes us an essential part of our customers’ digital lives. Here, you can work alongside talented engineers in an open, supportive, inclusive environment where your voice is valued, and you make your own decisions on what tech to use to solve challenging problems. American Express offers a range of opportunities to work with the latest technologies and encourages you to back the broader engineering community through open source. And because we understand the importance of keeping your skills fresh and relevant, we give you dedicated time to invest in your professional development. Find your place in technology on \\#TeamAmex.
+
+
+
+WHO WE ARE:  
+
+Resy is a hospitality technology platform that powers restaurants around the world and a consumer\\-facing reservation platform for passionate diners. Since its inception in 2014, Resy has created best\\-in\\-class software that elevates dining experiences and connects restaurants to a growing network of highly\\-engaged diners, with the powerful backing of American Express. Resy is a go\\-to destination for restaurant discovery, exclusive access, original content, and chef\\-driven culinary events. The amazing world of restaurants is just two taps away in the Resy app and at Resy \\| Right This Way .  
+
+Resy’s restaurant partners use Resy OS —  
+
+Resy \\| Restaurant Management and Table Reservation Software \\- a complete end\\-to\\-end technology platform — to run their businesses smarter and more efficiently. Resy OS takes into account pre, during and post service guest touchpoints to help operators deliver the best hospitality experience. Platform features include table management, wait list functionality, customized SMS text confirmations, guest feedback tools, reports and analytics for 360\\-degree visibility into operational performance, ticketing, PCI Level 1 compliant third\\-party credit card handling, and more.  
+
+We’re hiring, too. Interested in joining our team of restaurant\\-obsessed explorers? Right this way.
+ABOUT THE ROLE:  
+
+At Resy, we are tackling hard problems with elegant solutions and scaling very quickly. As a DevOps Engineer, you will play a crucial role in a automating and optimizing infrastructure, improving security and observability, managing deployments, and troubleshooting operations. The ideal candidate can work quickly to understand both architectural and security requirements and integrate into our Infrastructure as Code (IaC) as well as assist other members of the Engineering teams optimize their workflows. You thrive in a dynamic and constantly evolving environment, you are a collaborator and an innovator, and you are excited about what technology is doing for the hospitality industry.Requirements:
+* 10\\+ years of experience working as an engineer, preferably in a mix of fast\\-paced startup environments and large corporate environments
+* You are a self\\-starter but very comfortable working closely with a team
+* You are comfortable working with stakeholders outside the Engineering team including our Compliance, Information Security, Product, Sales and Account Management teams
+* You have the ability to collaborate with remote peers across timezones, multi\\-tasking ticket completion and avoiding mental blockers
+* You have excellent written and verbal communication skills, including technical documentation and UML diagramming
+* You have strong Linux fundamentals and scripting experience, preferably BASH and/or Python
+* You have a solid understanding of DNS, TLS, and networking architecture
+
+You have strong expertise with the following:
+* Cloud Infrastructure, preferably AWS (EC2, ELB, S3, etc)
+* Monitoring and Logging utilties, preferably DataDog
+* CI/CD Tools, preferably Jenkins and GitHub Actions
+* Configuration Management, preferably ansible
+* Infrastructure as Code, preferably Terraform
+* Build tools, notably Packer and Docker
+* CLI Scripting, especially to enhance all of the above
+* A passion for learning new tools as the ecosystem evolves and helping others adapt
+
+
+Big PLUS if you have:
+
+
+* Computer\\-related BS or MS degree or other technical discipline
+* Experience with On\\-Call rotations, incident response and postmortems
+* Experience with Containerization and Orchestration, notably EKS, Helm, ArgoCD, Istio, OPA
+* Experience building compliant solutions for international markets
+* History of building and maintaining systems at large scale
+* A history of documenting projects upon completion and reviewing and updating regularly
+
+Our team must be able to demonstrate technical, functional, leadership and business core competencies as well as have most, if not all, of the following:
+* Agile Practices and/or Kanban Timeboxing
+* Programming Languages and Frameworks
+* Analytical Thinking
+* Business Product Knowledge
+* MicroService Architectures
+* Jira or other project management tool
+* Confluence, Markdown and/or other documentation tools
+* MySQL, or other Basic SQL Skills (Performance Tuning as PLUS)
+* Basic NoSQL knowledge: MongoDB, DynamoDB, etc
+* Knowledge of a few of the following: NGINX, Redis, Kafka, ELK, Snowflake
+
+
+Salary Range: $110,000\\.00 to $190,000\\.00 annually \\+ bonus \\+ benefits
+
+
+
+The above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we’ll consider your location, experience, and other job\\-related factors.
+
+
+
+We back our colleagues and their loved ones with benefits and programs that support their holistic well\\-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:
+
+
+* Competitive base salaries
+* Bonus incentives
+* 6% Company Match on retirement savings plan
+* Free financial coaching and financial well\\-being support
+* Comprehensive medical, dental, vision, life insurance, and disability benefits
+* Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
+* 20\\+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy
+* Free access to global on\\-site wellness centers staffed with nurses and doctors (depending on location)
+* Free and confidential counseling support through our Healthy Minds program
+* Career development and training opportunities
+
+
+For a full list of Team Amex benefits, visit our Colleague Benefits Site.
+
+
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+
+
+
+We back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in\\-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in\\-office and virtual days) or fully virtually.
+
+
+
+US Job Seekers/Employees \\- Click here to view the “Know Your Rights” poster and the Pay Transparency Policy Statement.
+
+
+
+If the links do not work, please copy and paste the following URLs in a new browser window: https://www.dol.gov/agencies/ofccp/posters to access the three posters.
+
+
+
+Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions.","","https://www.glassdoor.com/Overview/W-EI_IE35.htm","https://media.glassdoor.com/sql/35/american-express-squarelogo-1527106190059.png","","","","",""
+"gd-1009553490547","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009553490547","","Senior Developer II","Neuberger Berman","New York, NY","2024-12-05","","direct_data","yearly",130000.0,185000.0,"USD",False,"","","organic","onlineaccommodations@nb.com","Neuberger Berman's technology team is looking for a hands\\-on Lead Developer with strong database and data pipeline development experience to join NB Business Technology. You will work with team members to design and implement end\\-to\\-end business solutions for various business teams.
+Responsibilities:* Lead a team of 2\\-3 developers in designing and developing solutions for Investment and Risk teams
+* Work closely with members of the project team and various business and technology stakeholders to understand business problems and current state processes
+* Responsible for architecture \\& solution design and implementation.
+* Manage Scrum \\& backlog for application development
+* Conduct ad\\-hoc analysis and present results in a clear manner
+
+
+Requirements:* Must demonstrate strong tech lead experience including conducting technical design, product delivery, and resource management skills
+* 10\\+ years of software development experience covering all aspects of SDLC.
+* Prior experience working with any of these programming languages \\- Python, or C\\#/.Net
+* Prior experience working with MS SQL Server (2016\\+) for database design and development
+* Prior experience working with Snowflake a big plus
+* Working with common data format and parsing methods: YAML, JSON, CSV, XML
+* Prior experience with any of these Business Intelligence technologies \\- Tableau, PowerBI, SSRS, Crystal. Tableau a big plus
+* Experience with Order Management Systems (Aladdin, Charles River) and/or Execution Management System (FlexTrade)
+* Familiarity with DevOps and the tools commonly utilized in this area. Azure DevOps a big plus
+* Familiarity with enterprise technology tools: Tidal Enterprise Scheduler (or any other scheduling system), Service Now, JIRA, Confluence
+* Prior Asset Management or Financial Services experience is a must
+
+
+Compensation Details
+The salary range for this role is $130,000\\-$185,000\\. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than the posted range, and the range may be modified in the future. This range is only applicable for jobs to be performed in New York City. An employee’s pay position within the salary range will be based on several factors including, but limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue\\-based metrics, any collective bargaining agreements, and business or organizational needs. This job is also eligible for a discretionary bonus. We offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance, 401(k), life insurance and other benefits to eligible employees.
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, production, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.*Neuberger Berman is an equal* *opportunity/affirmative* *action employer. The Firm and its affiliates do not discriminate in employment because of race, creed, national origin, religion, age, color, sex, marital status, sexual orientation, gender identity, disability, citizenship status or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact* *onlineaccommodations@nb.com**.**Learn about the* *Applicant Privacy Notice**.*","","https://www.glassdoor.com/Overview/W-EI_IE8711.htm","https://media.glassdoor.com/sql/8711/neuberger-berman-squarelogo-1398704736637.png","","","","",""
